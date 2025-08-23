@@ -28,7 +28,7 @@ Busco mi primera oportunidad en un equipo de desarrollo donde pueda seguir creci
 habitus, albums Of Communities, coctelera, Radar de Liderazgo, Automatización Mejores Tiempos, Excells Galicia
 
 🤖 [Bot Albums Of Communities](https://github.com/twallet/albumsofcommunitiesbot)
-Bot de Telegram ([libre de uso](http://t.me/AlbumsOfCommunitiesBot)) para la gestión grupal de albums de fotos: automatiza la subida y organización de fotos/videos recibidos en un grupo de Telegram en un albúm en Google Drive.
+Bot de Telegram para la gestión grupal de albums de fotos: automatiza la subida y organización de fotos/videos recibidos en un grupo de Telegram a una carpeta de Google Drive.
 Stack: Google Apps Script, Telegram Bot API, Google Drive API
 
 🔹 [App de Tareas con React](https://github.com/tuusuario/task-app)  
