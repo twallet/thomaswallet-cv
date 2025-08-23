@@ -2,7 +2,7 @@
 
 📍 Cipolletti, Rio Negro, Argentina  
 📧 twallet@gmail.com | 📱 +54 9 299 4581 766  
-🔗 [LinkedIn](https://www.linkedin.com/in/thomaswallet) | [GitHub](https://github.com/twallet) | [Substack](https://substack.com/@thomaswallet) | [Blog](https://www.elproximopaso.net)
+🔗 [LinkedIn](https://www.linkedin.com/in/thomaswallet) | [GitHub](https://github.com/twallet) | [Blog](https://www.elproximopaso.net)
 
 ---
 
@@ -26,9 +26,10 @@ Busco mi primera oportunidad en un equipo de desarrollo donde pueda seguir creci
 
 ## 📂 Proyectos Destacados
 habitus, albums Of Communities, coctelera, Radar de Liderazgo, Automatización Mejores Tiempos, Excells Galicia
-🔹 [Bot de Telegram para gestión de fotos](https://github.com/tuusuario/telegram-photo-bot)  
-Automatiza la subida y organización de fotos/videos en Google Drive.  
-Stack: Google Apps Script, Telegram Bot API, Google Drive API  
+
+🤖 [Bot Albums Of Communities](https://github.com/twallet/albumsofcommunitiesbot)
+Bot de Telegram ([libre de uso](http://t.me/AlbumsOfCommunitiesBot)) para la gestión grupal de albums de fotos: automatiza la subida y organización de fotos/videos recibidos en un grupo de Telegram en un albúm en Google Drive.
+Stack: Google Apps Script, Telegram Bot API, Google Drive API
 
 🔹 [App de Tareas con React](https://github.com/tuusuario/task-app)  
 Aplicación web para gestionar tareas pendientes con persistencia local.  
