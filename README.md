@@ -74,9 +74,9 @@ DoD Kards, DoR Kards,
 
 ## 📚 Publicaciones
 
--	N. Paez, J. Gabardini, T. Wallet & varios. Libro Ensayos Agiles – Escritos, Reflexiones y Críticas sobre Agilidad. Hesidio, 2017
--	N. Paez, H. Hiromoto, T. Wallet & varios. Libro Herramientas Agiles – Técnicas y Patrones para Equipos y Profesionales. Hesidio, 2016
--	N. Paez, A. Cyment, T. Wallet & varios. Libro Experiencias Agiles – Relatos de Experiencias del Uso de Metodologías Agiles en Argentina. Argentina. Abril 2015
+-	[Los derechos slow del equipo ágil](https://nicopaez.gitbook.io/libroagileaoc2017/slow) - N. Paez, J. Gabardini, T. Wallet & varios - Libro Ensayos Agiles – Escritos, Reflexiones y Críticas sobre Agilidad. Hesidio, 2017
+-	[San Saru: selección natural de equipos](https://nicopaez.gitbook.io/libroagileaoc2016/01_san_saru) - N. Paez, H. Hiromoto, T. Wallet & varios. Libro Herramientas Agiles - Técnicas y Patrones para Equipos y Profesionales. Hesidio, 2016
+-	[El próximo paso hacía el collective code ownership](https://nicopaez.gitbook.io/libroagileaoc2015/11-collective_ownership) - N. Paez, A. Cyment, T. Wallet & varios - Libro Experiencias Agiles – Relatos de Experiencias del Uso de Metodologías Agiles en Argentina, 2015
 -	[On-The-Fly Model-Based Testing of Web Services with Jambition](https://link.springer.com/chapter/10.1007/978-3-642-01364-5_9) - L. Frantzen, T. Wallet, M. Huerta y Z. Kiss - En Proceedings of Web Services and Formal Methods: 5th International Workshop, WS-FM 2008, Milano, Italia. Septiembre 2008
 -	[Services and mobility: the PLASTIC answer to the Beyond 3G challenge](https://www.researchgate.net/publication/228617423_Services_and_mobility_the_PLASTIC_answer_to_the_Beyond_3G_challenge) - H.J. Eikerling, P. Mazzoleni, P. Plaza, D. Yankelevich, T. Wallet - White Paper Plastic Project. December 2007.
 -	[Mobile Medical Diagnosis: an m-Health Initiative through Service Continuity in B3G](https://www.researchgate.net/publication/221461311_Mobile_medical_diagnosis_an_m-health_initiative_through_service_continuity_in_B3G) - L. Rong, T. Wallet, M. Fredj y N. Georgantas - Proceedings of the 2007 ACM/IFIP/USENIX international conference on Middleware companion. Middleware 2007, California, 2007
