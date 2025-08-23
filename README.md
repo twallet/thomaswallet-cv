@@ -38,7 +38,6 @@ Stack: React, JavaScript, CSS
 Sitio web con mis proyectos y un blog técnico.  
 Stack: HTML, CSS, JavaScript  
 
-DoD Kards, DoR Kards, 
 
 ---
 
@@ -82,7 +81,7 @@ DoD Kards, DoR Kards,
 
 - [Agile Open Camp](https://agileopen.camp) - Co-fundador y organizador: Co-fundé con T. Christie y M. Strione el evento Agile Open Camp (AOC). Se hicieron 15 ediciones del evento en 5 países (+ online durante la pandemia). Co-organicé los AOC Bariloche 2015 y 2016, AOC Chile 2017 y 2018, AOC España 2019 y AOC en tu casa 2020.
 - Fundador: Comunidad de Facilitadores/as del Alto Valle (2018 a 2020), Comunidad Agiles Alto Valle (2015 a 2017), Comunidad Ágil de Neuquén (2012), Comunidad Ágil interna de Pragma Consultores (2009 a 2013).
-- Speaker: en eventos de Argentina, Bolivia, Chile, Ecuador, España, Francia, Perú, Uruguay, Venezuela y online, con keynotes y talleres sobre temas como: agilidad (retrospectivas, no estimates, Scrum, Kanban, priorización, visual management, liderazgo ágil), gestión del tiempo (Slow, Pomodoro, silencio), facilitación (auto-facilitación, facilitación remota), diversidad, entre otros.
+- Speaker: en eventos de Argentina, Bolivia, Chile, Ecuador, España, Francia, Perú, Uruguay, Venezuela y online, con keynotes y talleres sobre temas de agilidad (retrospectivas, no estimates, Scrum, Kanban, priorización, visual management, liderazgo ágil), gestión del tiempo (Slow, Pomodoro, silencio), facilitación (auto-facilitación, facilitación remota) y diversidad, entre otros.
 
 ## 📚 Publicaciones y Traducciones
 
