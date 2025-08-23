@@ -25,7 +25,7 @@ Busco mi primera oportunidad en un equipo de desarrollo donde pueda seguir creci
 ---
 
 ## 📂 Proyectos Destacados
-
+habitus, albums Of Communities, coctelera, Radar de Liderazgo, Automatización Mejores Tiempos, Excells Galicia
 🔹 [Bot de Telegram para gestión de fotos](https://github.com/tuusuario/telegram-photo-bot)  
 Automatiza la subida y organización de fotos/videos en Google Drive.  
 Stack: Google Apps Script, Telegram Bot API, Google Drive API  
@@ -80,7 +80,7 @@ Stack: HTML, CSS, JavaScript
 ## 🕯️Comunidades y Eventos
 
 - [Agile Open Camp](https://agileopen.camp) - Co-fundador y organizador: Co-fundé con T. Christie y M. Strione el evento Agile Open Camp (AOC). Se hicieron 15 ediciones del evento en 5 países (+ online durante la pandemia). Co-organicé los AOC Bariloche 2015 y 2016, AOC Chile 2017 y 2018, AOC España 2019 y AOC en tu casa 2020.
-- Fundador: Comunidad de Facilitadores/as del Alto Valle (2018 a 2020), Comunidad Agiles Alto Valle (2015 a 2017), Comunidad Ágil de Neuquén (2012), Comunidad Ágil interna de Pragma Consultores (2009 a 2013).
+- Fundador: [Comunidad de Facilitadores/as de la Confluencia](https://www.elproximopaso.net/2018/12/facilitadores-confluencia.html) (2018 a 2020), Comunidad Ágiles Alto Valle: cápitulo regional de [Ágiles Argentina](https://www.meetup.com/es-ES/agiles-arg) (2015 a 2017), [Comunidad Ágil de Neuquén](https://www.elproximopaso.net/2012/03/primera-reunion-de-la-comunidad-agil-de.html) (2012), Comunidad Ágil interna de [Pragma Consultores](https://practia.global) (2009 a 2013).
 - Speaker: en eventos de Argentina, Bolivia, Chile, Ecuador, España, Francia, Perú, Uruguay, Venezuela y online, con keynotes y talleres sobre temas de agilidad (retrospectivas, no estimates, Scrum, Kanban, priorización, visual management, liderazgo ágil), gestión del tiempo (Slow, Pomodoro, silencio), facilitación (auto-facilitación, facilitación remota) y diversidad, entre otros.
 
 ## 📚 Publicaciones y Traducciones
