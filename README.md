@@ -25,20 +25,22 @@ Busco mi primera oportunidad en un equipo de desarrollo donde pueda seguir creci
 ---
 
 ## 📂 Proyectos Destacados
-habitus, albums Of Communities, coctelera, Radar de Liderazgo, Automatización Mejores Tiempos, Excells Galicia
+Si bien no trabajo de programador desde hace muchos años, siempre estuve programando por hobby. 
+
+habitus, coctelera, Radar de Liderazgo, Automatización Mejores Tiempos, Excells Galicia
+
+🤖 [Bot Habitus]()
+Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periodicos.
+Stack: Google Apps Script (Orientado a Objetos), Telegram Bot API, Google Sheets API
+IA: GS Copilot
 
 🤖 [Bot Albums Of Communities](https://github.com/twallet/albumsofcommunitiesbot)
 Bot de Telegram para la gestión grupal de albums de fotos: automatiza la subida y organización de fotos/videos recibidos en un grupo de Telegram a una carpeta de Google Drive.
-Stack: Google Apps Script, Telegram Bot API, Google Drive API
+Stack: Google Apps Script, Telegram Bot API, Google Drive API, Google Sheets API
+IA: Jules y GS Copilot
 
-🔹 [App de Tareas con React](https://github.com/tuusuario/task-app)  
-Aplicación web para gestionar tareas pendientes con persistencia local.  
-Stack: React, JavaScript, CSS  
-
-🔹 [Portfolio Personal](https://tusitio.dev)  
-Sitio web con mis proyectos y un blog técnico.  
-Stack: HTML, CSS, JavaScript  
-
+⌚ [Automatización Programa Mejores Tiempos]()
+Stack: Google Apps Script, Zappier, Teachable API, Google Mail API
 
 ---
 
