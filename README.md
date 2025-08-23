@@ -77,16 +77,16 @@ DoD Kards, DoR Kards,
 -	N. Paez, J. Gabardini, T. Wallet & varios. Libro Ensayos Agiles – Escritos, Reflexiones y Críticas sobre Agilidad. Hesidio, 2017
 -	N. Paez, H. Hiromoto, T. Wallet & varios. Libro Herramientas Agiles – Técnicas y Patrones para Equipos y Profesionales. Hesidio, 2016
 -	N. Paez, A. Cyment, T. Wallet & varios. Libro Experiencias Agiles – Relatos de Experiencias del Uso de Metodologías Agiles en Argentina. Argentina. Abril 2015
--	L. Frantzen, T. Wallet, M. Huerta y Z. Kiss. On-The-Fly Model-Based Testing of Web Services with Jambition. En Proceedings of Web Services and Formal Methods: 5th International Workshop, WS-FM 2008, Milano, Italia. Septiembre 2008
--	Heinz-Josef Eikerling, Pietro Mazzoleni, Pierre Plaza, Daniel Yankelevich, Thomas Wallet. "Services and mobility: the PLASTIC answer to the Beyond 3G challenge". White Paper Plastic Project. December 2007.
--	L. Rong, T. Wallet, M. Fredj y N. Georgantas. Mobile Medical Diagnosis: an m-Health Initiative through Service Continuity in B3G. Proceedings of the 2007 ACM/IFIP/USENIX international conference on Middleware companion. Middleware 2007, California, 2007
--	M. Casanova, T. Wallet y M. D’Hondt. Integrating an Explicit Knowledge Model into Geographic Information Systems. En Proceedings of the Thirteenth International Conference on Software Engineering & Knowledge Engineering – SEKE’ 01, Buenos Aires, Argentina (Junio 2001).
--	T. Wallet, M. Casanova y M. D’Hondt. Adaptations to OCL for Ensuring Quality of Geographic Data. En Companion of the ACM Conference on Object-Oriented Programming, Systems, Languages and Applications – OOPSLA 2000, Minneapolis, Minnesota. Pág. 69-70. ACM, 2000.
--	T. Wallet, M. Casanova y M. D’Hondt. Ensuring Quality of Geographic Data with OCL and UML. En Proceedings of the 3rd International Conference on the Unified Modeling Language: Advancing the Standard – <<UML>> 2000, York, UK. Pág. 225-239. Springer, 2000.
+-	[On-The-Fly Model-Based Testing of Web Services with Jambition](https://link.springer.com/chapter/10.1007/978-3-642-01364-5_9) - L. Frantzen, T. Wallet, M. Huerta y Z. Kiss - En Proceedings of Web Services and Formal Methods: 5th International Workshop, WS-FM 2008, Milano, Italia. Septiembre 2008
+-	[Services and mobility: the PLASTIC answer to the Beyond 3G challenge](https://www.researchgate.net/publication/228617423_Services_and_mobility_the_PLASTIC_answer_to_the_Beyond_3G_challenge) - H.J. Eikerling, P. Mazzoleni, P. Plaza, D. Yankelevich, T. Wallet - White Paper Plastic Project. December 2007.
+-	[Mobile Medical Diagnosis: an m-Health Initiative through Service Continuity in B3G](https://www.researchgate.net/publication/221461311_Mobile_medical_diagnosis_an_m-health_initiative_through_service_continuity_in_B3G) - L. Rong, T. Wallet, M. Fredj y N. Georgantas - Proceedings of the 2007 ACM/IFIP/USENIX international conference on Middleware companion. Middleware 2007, California, 2007
+-	[Integrating an Explicit Knowledge Model into Geographic Information Systems](https://www.researchgate.net/publication/246487939_Integrating_an_Explicit_Knowledge_Model_into_Geographic_Information_Systems) - M. Casanova, T. Wallet y M. D’Hondt - En Proceedings of the Thirteenth International Conference on Software Engineering & Knowledge Engineering – SEKE’ 01, Buenos Aires, Argentina, 2001.
+-	[Adaptations to OCL for Ensuring Quality of Geographic Data](https://dl.acm.org/doi/10.1145/367845.367942) - T. Wallet, M. Casanova y M. D’Hondt - En Companion of the ACM Conference on Object-Oriented Programming, Systems, Languages and Applications – OOPSLA 2000, Minneapolis, Minnesota. Pág. 69-70. ACM, 2000.
+-	[Ensuring Quality of Geographic Data with OCL and UML](https://link.springer.com/chapter/10.1007/3-540-40011-7_16) - T. Wallet, M. Casanova y M. D’Hondt - En Proceedings of the 3rd International Conference on the Unified Modeling Language: Advancing the Standard – <<UML>> 2000, York, UK. Pág. 225-239. Springer, 2000.
 
 ## 🖊️ Traducciones
-Retromat
+
 - [Planes para Retrospectivas Ágiles: Retrospectivas ágiles efectivas desde el inicio](https://leanpub.com/planes-para-retrospectivas-agiles) - C. Baldauf, T. Wallet - Leanpub, 2021
 - [96 Ejemplos de Visualización: como los buenos equipos visualizan su trabajo](https://leanpub.com/ejemplosdevisualizacin) - J. Janlen, T.Wallet - Leanpub, 2018
-- [Retromat], 2014
+- [Retromat](https://retromat.org/es) - C. Baldauf, T. Wallet, P. Serrano - 2014
 - [Business Value Game](https://www.agilebelgium.be/businessvaluegame/) - V. Peeters, P. Van Cauwenberghe, T. Wallet, L. Antolí, J.G. Plaza - 2010
