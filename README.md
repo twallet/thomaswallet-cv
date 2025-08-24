@@ -81,11 +81,11 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Lideré un equipo de 25 personas para el mantenimiento de 6 aplicaciones, con tecnología _**ASP, .Net, Qlikview, Oracle.**_  
 - Implementé prácticas de _**Extreme Programming**_ con procesos _**CMMI**_ nivel 2.  
 
-### Desarrollador y QA / Volvo IT Francia (Buenos Aires)  
+#### Desarrollador y QA / Volvo IT Francia (Buenos Aires)  
 📅 Ago 2008  
 - Participé de una prueba de concepto de un catalogo de los proyectos de TI del grupo Volvo con _##Javascript##_ sobre _**Microsoft EPM**_.
 
-### Líder Proyecto de Investigación PLASTIC / European IST Research (Buenos Aires)  
+#### Líder Proyecto de Investigación PLASTIC / European IST Research (Buenos Aires)  
 📅  Feb 2006 a Sep 2008
 - Lideré la participación de Pragma Consultores al proyecto de investigación de la Comunidad Europea PLASTIC, cuyo objetivo principal era desarrollar una plataforma que habilite servicios livianos, distribuidos y robustos en ambientes de redes de telefonía _Beyond 3rd Generation._
 - Con 11 partner europeos, definimos un ambiente de desarrollo, un middleware y un framework de validación.
