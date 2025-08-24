@@ -51,28 +51,65 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Implementé soluciones de [ejemplo] que optimizaron procesos.  
 - Desarrollé habilidades de gestión, comunicación y resolución de problemas.
 
-### Laboratorio de Investigación y Formación en Informática Avanzada (LIFIA - UNLP)  
-#### Líder de Desarrollo  
-Movicom Bellsouth  
+#### Pragma Consultores  
+### Gerente de Servicios de Pragma Consultores (Neuquén)  
+📅 Nov 2010 a Jun 2013  
+- Gerencié la sucursal de Neuquén de Pragma Consultores (20 personas): servicios locales, actividades comerciales, staffing, presupuesto, administración e infraestructura. 
+- Participé en consultoría local en industrias frutícola, financiera, energía en servicios de selección de productos/proveedores, gestión de proyectos, capacitaciones tecnológicas, QA, procesos, entre otros. 
+
+### Líder Control de Implementación de SAP / ENSI (Neuquén) 
+📅 Oct 2010 a Sep 2011
+- Lideré el servicio de gestión del proyecto de implementación de _**SAP**_ (9 módulos) en la planta de agua pesada de Arroyito, y de control de proveedor. 
+- Lideré el equipo de QA de la implementación de SAP. 
+
+Líder de Proyecto de Desarrollo para Movistar (05/2010 a 09/2010).
+•	Líder del servicio de desarrollo de varias aplicaciones sobre tecnologías Java, Flex y Cobol.
+
+Coach Agile (04/2009 a 03/2013).
+•	Coordinador la Comunidad Agile de Pragma Consultores para la capacitación en prácticas agiles (XP, Scrum, Kanban) de los consultores, el coaching en su aplicación en servicios de Pragma y los servicios de coaching en prácticas agiles a clientes.
+
+Líder del Servicio de Aplication Management Office para TecPetrol (01/2009 a 09/2010).
+•	Líder del servicio de mantenimiento de 6 aplicaciones para TecPetrol sobre tecnologías ASP y .Net, que cuenta con 12 personas (analistas técnicos, desarrolladores y testers).
+
+Líder de Proyecto de CRM en Banca Minorista para Banco Galicia (03/2009 a 09/2009).
+•	Líder de los frentes funcionales y de sistemas del desarrollo sobre SIEBEL de una solución de CRM en banca minorista a implementar en las 400 sucursales del Banco Galicia.
+
+Líder de Desarrollo sobre Microsoft EPM para Volvo IT Francia (08/2008).
+•	Líder de proyecto piloto de desarrollo y customización offshore sobre Microsoft EPM de un catálogo de los proyectos de TI del grupo Volvo.
+
+Líder Proyecto de Investigación PLASTIC (03/2006 a 11/2008): 
+•	Líder en la participación de Pragma Consultores al proyecto de investigación de la Comunidad Europea PLASTIC cuyo objetivo principal era desarrollar una plataforma que habilite servicios livianos, distribuidos y robustos en ambientes de redes de telefonía Beyond 3rd Generation. Se definió con los 11 partners europeos un ambiente de desarrollo, un middleware y un framework de validación, y Pragma Consultores desarrolló un prototipo de eSalud (Pocket Doctor) que valida los resultados innovadores del proyecto.
+
+Líder Grupo de Ingeniería de Procesos de PM para Banco Galicia (04/2005 a 03/2009):
+•	Empezó como especialista metodológico y luego lideró el grupo de Diseño de Procesos de Gestión de Proyectos para los distintos sectores de la Gerencia de Sistemas (350 personas) del Banco Galicia. Considerando estándares como CMMI, OPM3 y metodologías ágiles, trabajando de manera participativa a través de workshops y coaching, y apoyándose en herramientas como MS EPM o herramientas propias, se definen, prueban, implementan y mejoran los procesos para la gestión de proyectos y portfolios. 
+
+Especialista Metodológico para Interbanking (01/2005 a 03/2005): 
+•	Soporte metodológico para la adaptación de la metodología de Pragma para desarrollo y gestión de proveedores.
+
+Desarrollo de Nuevos Servicios:
+•	Iniciativas internas para el desarrollo de nuevos servicios de Pragma Consultores: Oficina de Calidad, Testing de Aplicaciones Mobile y Coaching en Scrum. Participó en la elaboración de un modelo de madurez de PM basado en CMMI y OPM3: Plan & Play, 
+•	Organización de mesas de trabajo para desarrollar servicios de consultoría en Oil & Gas No Convencional y en Evaluación de Agilidad.
+
+
+### Laboratorio de Investigación y Formación en Informática Avanzada (LIFIA-UNLP)  
+#### Líder de Desarrollo / Movicom Bellsouth (Buenos Aires)  
 📅 2003 a 2004  
 - Lideré un equipo de 10 desarrolladores y QA en varios proyectos de desarrollo sobre un framework _**J2EE** (Movics3)._  
 - A cargo de la relación con el cliente y su gestión comercial, hicé crecer el equipo y aprendí a gestionar proyectos de desarrollo.  
 
-#### Responsable Área de Calidad y Procesos  
+#### Responsable Área de Calidad y Procesos / LIFIA-UNLP (La Plata)  
 📅 2001 a 2004  
 - Lideré el área a cargo de la definición y implementación de métodología de desarrollo de software, en base a estándares internacionales como _**CMM**_ e _**IEEE**_).  
 - Creamos el _FRAmework de Procesos Esenciales (FRAPE)_ para el desarrollo de software, aplicado y mejorado en más de 20 proyectos de desarrollo.  
   
-### Investigador QA Automation
-Tele Atlas Lab NV (Bélgica)  
+### Investigador QA Automation / Tele Atlas Lab NV (Bélgica)  
 📅 2000
 - Proyecto de investigación del _System and Software Engineering Laboratory_ de la _Vrije Universiteit Brussel_ para garantizar la calidad de datos geográficos.
 - Diseño de un lenguaje de reglas de negocios sobre datos geográficos basado en _**OCL** (Object Constraint Language)._
 - Desarrollo en _**Visual Basic**_ de parser y compilador, y generación del código para chequeo automatico sobre grandes bases de datos.
   
-### Desarrollador  
-Dataprev (Brasil)  
-📅 1999  
+### Desarrollador / Dataprev (Brasil)  
+📅 Mar a Ago 1999  
 - Desarrollé de una interface web dinámica para acelerar el acceso a datos estatales de Seguridad Social.
 - Implementé un parser y compilador en _**Java**_ para generación de queries _**SQL**_ dínamicos.
 - Validé mi tesis de master aplicando resultados de investigación en _**Programación Orientada a Aspectos**._
