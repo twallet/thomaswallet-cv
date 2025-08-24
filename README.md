@@ -51,19 +51,20 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Implementé soluciones de [ejemplo] que optimizaron procesos.  
 - Desarrollé habilidades de gestión, comunicación y resolución de problemas.
 
-#### Pragma Consultores  
-### Gerente de Servicios de Pragma Consultores (Neuquén)  
+### Pragma Consultores  
+#### Gerente de Servicios / Pragma Consultores (Neuquén)  
 📅 Nov 2010 a Jun 2013  
 - Gerencié la sucursal de Neuquén de Pragma Consultores (20 personas): servicios locales, actividades comerciales, staffing, presupuesto, administración e infraestructura. 
 - Participé en consultoría local en industrias frutícola, financiera, energía en servicios de selección de productos/proveedores, gestión de proyectos, capacitaciones tecnológicas, QA, procesos, entre otros. 
-
-### Líder Control de Implementación de SAP / ENSI (Neuquén) 
+  
+#### Líder Control de Implementación de SAP / ENSI (Neuquén) 
 📅 Oct 2010 a Sep 2011
 - Lideré el servicio de gestión del proyecto de implementación de _**SAP**_ (9 módulos) en la planta de agua pesada de Arroyito, y de control de proveedor. 
 - Lideré el equipo de QA de la implementación de SAP. 
 
-Líder de Proyecto de Desarrollo para Movistar (05/2010 a 09/2010).
-•	Líder del servicio de desarrollo de varias aplicaciones sobre tecnologías Java, Flex y Cobol.
+#### Líder de Desarrollo / Movistar  
+📅 Abr a Sep 2010  
+- Lideré el desarrollo de varias aplicaciones con _**Java, Flex**_ y _**Cobol**._
 
 Coach Agile (04/2009 a 03/2013).
 •	Coordinador la Comunidad Agile de Pragma Consultores para la capacitación en prácticas agiles (XP, Scrum, Kanban) de los consultores, el coaching en su aplicación en servicios de Pragma y los servicios de coaching en prácticas agiles a clientes.
