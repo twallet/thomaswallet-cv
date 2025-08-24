@@ -50,13 +50,19 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Lideré proyectos de [ejemplo], trabajando con equipos interdisciplinarios.  
 - Implementé soluciones de [ejemplo] que optimizaron procesos.  
 - Desarrollé habilidades de gestión, comunicación y resolución de problemas.
+  
+### Fundador y Time Maker / Next Steps Lab (Cipolletti, Rio Negro)
+📅 Desde Sep 2023 
+- Desarrollé una plataforma de eLearning sobre _**Teachable**_ con automatizaciones con _**Zappier**_ y _**Google App Script**_.
+- Ofrezco cursos online de Gestión del Tiempo, Productividad y Slow para personas y empresas, en los cuales participaron más de 2.600 personas.
+- Acompaño personas y empresas en la mejora de gestión del tiempo, de ritmos y de reuniones y agenda sostenible. 
 
 ### Agile Coach / Kleer (Cipolletti, Rio Negro)  
-📅 Desde Ene 2016
+📅 Ene 2016 a Dic 2024
 - Trabajé con multiples empresas en Latinoamérica y Europa: Banco Galicia, KPMG, Telecom, Total, YPF en Argentina, Neoris, BBVA Next, Rollup Consulting en España, BBVA Continental en Perú, Falabella Finanzas en Chile, SmartRX, Caméon, Netia en Francia, David Systems en Alemania, entre otros.
 -	Di coaching ágil para la (re)-construcción de equipos, con _**Scrum, Kanban, Visual Management, Improvement Kata**_ y _**Frameworks de Escalado**_ para multinacionales en Latinoamérica.
 -	Di capacitaciones en _**Retrospectivas, Scrum, Kanban, Visual Management, Frameworks de Escalado**_ y _**Time Management**_ en Latinoamérica y Europa.
-- Co-desarrollé un programa de _Desarrollo de Liderazgo Ágil_ basado en _Reinventing Organizations,_ con su _Radar de Liderazgo_ (desarrollado en _**Google App Script**)_, capacitaciones y coaching ejecutivo, que tuvo cerca de 20 ediciones en NaranjaX, Laureate (Perú), Comercial Nutresa (Colombia), YPF 
+- Co-desarrollé un programa de _Desarrollo de Liderazgo Ágil_ basado en _Reinventing Organizations,_ con su _Radar de Liderazgo_ (desarrollado en _**Google App Script**)_, capacitaciones y coaching ejecutivo, que tuvo cerca de 20 ediciones en NaranjaX, Laureate (Perú), Comercial Nutresa (Colombia) e YPF. 
 
 ### Banco Provincia del Neuquen
 #### Responsable Productos Pasivos (Neuquén) 
