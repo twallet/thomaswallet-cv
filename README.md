@@ -51,12 +51,26 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Implementé soluciones de [ejemplo] que optimizaron procesos.  
 - Desarrollé habilidades de gestión, comunicación y resolución de problemas.
 
+- Laboratorio de Investigación y Formación en Informática Avanzada – La Plata. 2001-2004
+Responsable de Cuenta Cliente & Líder de Proyectos para Movicom Bellsouth  (2003 – 2004)
+•	Organización y liderazgo del grupo de desarrollo del LIFIA. Equipo de 10 personas. Proyectos de desarrollo para los sectores de Revenue Assurance, Costeo e Interconexión, desarrollando distintos módulos sobre un framework J2EE (Movics3)
+•	Definición y Gestión de Proyectos de Desarrollo.
+
+[Especialista Metodología y Calidad]
+•	Dirección y organización del Área de Calidad y Procesos del LIFIA, en base a distintos estándares internacionales.
+•	Creación del FRAmework de Procesos Esenciales (FRAPE) para el desarrollo de software,aplicado y mejorado en más de 20 proyectos de desarrollo de características diversas dentro del LIFIA. (El FRAPE provee un marco de definición de procesos mínimos e independientes necesarios para el desarrollo de software de calidad).
+
+Responsable Comercial
+•	Participación en la definición, propuesta, puesta en marcha, seguimiento y control de proyectos de desarrollo, mentoring y capacitación para clientes medianos y grandes del laboratorio.
+•	Participación en proyectos de desarrollo y consultoría en los mercados argentino e internacional: bancario, telefonía, e-learning, groupware y medicina prepaga, cumpliendo roles de: program manager, especialista metodológico, desarrollador, líder de proyecto, analista, arquitecto, diseñador de test, tester.
+
+
 **Investigador QA Automation** – Tele Atlas Lab NV, Bélgica 📅 2000
 - Participé del proyecto de investigación del laboratorio _SSEL (System and Software Engineering Laboratory)_ de la _Vrije Universiteit Brussel_ para garantizar la calidad de datos geográficos.
 - Diseño de un lenguaje de chequeo de reglas de negocios para detectar errores en datos geográficos basado en _**OCL** (Object Constraint Language)._
 - Desarrollo en _**Visual Basic**_ de parser y compilador, y generación del código para chequeo automatico de las reglas de negocio sobre grandes bases de datos.
 
-**Desarrollador Junior** – Dataprev, Brasil 📅 Marzo a agosto 1999  
+**Desarrollador Junior** – Dataprev, Brasil 📅 1999  
 - Desarrollé de una interface web dinámica para acelerar el acceso cotidiano a datos de la Seguridad Social.
 - Implementé un parser y compilador en _**Java**_ para generar queries dínamicos _**SQL**._
 - Validé mi tesis de master aplicando resultados de investigación académica en _**Programación Orientada a Aspectos**._
