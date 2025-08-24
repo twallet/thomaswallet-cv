@@ -52,30 +52,25 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Desarrollé habilidades de gestión, comunicación y resolución de problemas.
 
 ### Laboratorio de Investigación y Formación en Informática Avanzada (LIFIA - UNLP)  
-📅 2001 a 2004
-
 #### Líder de Desarrollo  
 Movicom Bellsouth  
-📅 2003 a 2004
-- Lideré un equipo de 10 desarrolladores y QA en varios proyectos de desarrollo sobre un framework _**J2EE** (Movics3)._
-- A cargo de la relación con el cliente, hicé crecer el equipo y aprendí a gestionar proyectos de desarrollo.
+📅 2003 a 2004  
+- Lideré un equipo de 10 desarrolladores y QA en varios proyectos de desarrollo sobre un framework _**J2EE** (Movics3)._  
+- A cargo de la relación con el cliente y su gestión comercial, hicé crecer el equipo y aprendí a gestionar proyectos de desarrollo.  
 
-[Especialista Metodología y Calidad]
-•	Dirección y organización del Área de Calidad y Procesos del LIFIA, en base a distintos estándares internacionales.
-•	Creación del FRAmework de Procesos Esenciales (FRAPE) para el desarrollo de software,aplicado y mejorado en más de 20 proyectos de desarrollo de características diversas dentro del LIFIA. (El FRAPE provee un marco de definición de procesos mínimos e independientes necesarios para el desarrollo de software de calidad).
-
-Responsable Comercial
-•	Participación en la definición, propuesta, puesta en marcha, seguimiento y control de proyectos de desarrollo, mentoring y capacitación para clientes medianos y grandes del laboratorio.
-•	Participación en proyectos de desarrollo y consultoría en los mercados argentino e internacional: bancario, telefonía, e-learning, groupware y medicina prepaga, cumpliendo roles de: program manager, especialista metodológico, desarrollador, líder de proyecto, analista, arquitecto, diseñador de test, tester.
-
-#### Investigador QA Automation
+#### Responsable Área de Calidad y Procesos  
+📅 2001 a 2004  
+- Lideré el área a cargo de la definición y implementación de métodología de desarrollo de software, en base a estándares internacionales como _**CMM**_ e _**IEEE**_).  
+- Creamos el _FRAmework de Procesos Esenciales (FRAPE)_ para el desarrollo de software, aplicado y mejorado en más de 20 proyectos de desarrollo.  
+  
+### Investigador QA Automation
 Tele Atlas Lab NV (Bélgica)  
 📅 2000
 - Proyecto de investigación del _System and Software Engineering Laboratory_ de la _Vrije Universiteit Brussel_ para garantizar la calidad de datos geográficos.
 - Diseño de un lenguaje de reglas de negocios sobre datos geográficos basado en _**OCL** (Object Constraint Language)._
 - Desarrollo en _**Visual Basic**_ de parser y compilador, y generación del código para chequeo automatico sobre grandes bases de datos.
   
-#### Desarrollador  
+### Desarrollador  
 Dataprev (Brasil)  
 📅 1999  
 - Desarrollé de una interface web dinámica para acelerar el acceso a datos estatales de Seguridad Social.
