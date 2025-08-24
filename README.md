@@ -49,7 +49,19 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 📅 _Años de inicio – fin_  
 - Lideré proyectos de [ejemplo], trabajando con equipos interdisciplinarios.  
 - Implementé soluciones de [ejemplo] que optimizaron procesos.  
-- Desarrollé habilidades de gestión, comunicación y resolución de problemas.  
+- Desarrollé habilidades de gestión, comunicación y resolución de problemas.
+
+**Investigador QA Automation** – Tele Atlas Lab NV, Bélgica  
+📅 2000
+- Participé del proyecto de investigación del laboratorio SSEL (System and Software Engineering Laboratory) de la Vrije Universiteit Brussel para garantizar la calidad de datos geográficos.
+- Diseño de un lenguaje de chequeo de reglas de negocios para detectar errores en datos geográficos basado en **OCL** (Object Constraint Language).
+- Desarrollo en **Visual Basic** de parser y compilador, y generación del código para chequeo automatico de las reglas de negocio sobre grandes bases de datos.
+
+**Desarrollador Junior** – Dataprev, Brasil  
+📅 Marzo a agosto 1999  
+- Desarrollé de una interface web dinámica para acelerar el acceso cotidiano a datos de la Seguridad Social.
+- Implementé un parser y compilador en **Java** para generar queries dínamicos **SQL**. 
+- Validé mi tesis de master aplicando resultados de investigación académica en **Programación Orientada a Aspectos**.
 
 ---
 
