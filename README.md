@@ -83,7 +83,7 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 
 #### Desarrollador y QA / Volvo IT Francia (Buenos Aires)  
 📅 Ago 2008  
-- Participé de una prueba de concepto de un catalogo de los proyectos de TI del grupo Volvo con _##Javascript##_ sobre _**Microsoft EPM**_.
+- Participé de una prueba de concepto de un catalogo de los proyectos de TI del grupo Volvo con _**Javascript**_ sobre _**Microsoft EPM**_.
 
 #### Líder Proyecto de Investigación PLASTIC / European IST Research (Buenos Aires)  
 📅 Feb 2006 a Sep 2008
@@ -95,7 +95,7 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 📅 Feb 2005 a Mar 2009
 - Diseñamos los procesos de Gestión de Proyectos para los distintos sectores de la Gerencia de Sistemas (350 personas), integrando estándares como _**CMMI, OPM3**_ y prácticas _**ágiles,**_.  
 - Lideré el Grupo de Mejora de Procesos, trabajando de manera participativa a través de workshops y coaching, para probar, implementar y mejorar los procesos para la gestión de proyectos y portfolios.
-- Desarrollé herramientas propias en _**Microsoft Excel, Macros**_ y _**Microsoft EPM**_.
+- Desarrollé herramientas propias en _**Microsoft Excel con macros**_ y _**Microsoft EPM**_.
 
 ### Laboratorio de Investigación y Formación en Informática Avanzada (LIFIA-UNLP)  
 #### Líder de Desarrollo / Movicom Bellsouth (Buenos Aires)  
