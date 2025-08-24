@@ -72,20 +72,24 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Ayudé a aplicar prácticas ágiles en los servicios de Pragma Consultores.
 - Di servicios de capacitación y coaching en prácticas agiles para distintos clientes.
 
-#### Líder de Mantenimiento de Aplicaciones / TecPetrol (Buenos Aires)  
-📅 Ene 2009 a Sep 2010  
-- Lideré un equipo de 25 personas para el mantenimiento de 6 aplicaciones, con tecnología _**ASP, .Net, Qlikview, Oracle.**_  
-- Implementé prácticas de _**Extreme Programming**_ con procesos _**CMMI**_ nivel 2.  
-
 #### Líder de Proyecto de CRM en Banca Minorista / Banco Galicia (Buenos Aires)  
 📅 Mar a Sep 2009  
 - Lideré los frentes funcionales y de sistemas del desarrollo sobre _**SIEBEL**_ de una solución de CRM en banca minorista a implementar en 400 sucursales.
 
-Líder de Desarrollo sobre Microsoft EPM para Volvo IT Francia (08/2008).
-•	Líder de proyecto piloto de desarrollo y customización offshore sobre Microsoft EPM de un catálogo de los proyectos de TI del grupo Volvo.
+#### Líder de Mantenimiento de Aplicaciones / TecPetrol (Buenos Aires)  
+📅 Oct 2008 a Sep 2010  
+- Lideré un equipo de 25 personas para el mantenimiento de 6 aplicaciones, con tecnología _**ASP, .Net, Qlikview, Oracle.**_  
+- Implementé prácticas de _**Extreme Programming**_ con procesos _**CMMI**_ nivel 2.  
 
-Líder Proyecto de Investigación PLASTIC (03/2006 a 11/2008): 
-•	Líder en la participación de Pragma Consultores al proyecto de investigación de la Comunidad Europea PLASTIC cuyo objetivo principal era desarrollar una plataforma que habilite servicios livianos, distribuidos y robustos en ambientes de redes de telefonía Beyond 3rd Generation. Se definió con los 11 partners europeos un ambiente de desarrollo, un middleware y un framework de validación, y Pragma Consultores desarrolló un prototipo de eSalud (Pocket Doctor) que valida los resultados innovadores del proyecto.
+### Desarrollador y QA / Volvo IT Francia (Buenos Aires)  
+📅 Ago 2008  
+- Participé de una prueba de concepto de un catalogo de los proyectos de TI del grupo Volvo con _##Javascript##_ sobre _**Microsoft EPM**_.
+
+### Líder Proyecto de Investigación PLASTIC / European IST Research (Buenos Aires)  
+📅  Feb 2006 a Sep 2008
+- Lideré la participación de Pragma Consultores al proyecto de investigación de la Comunidad Europea PLASTIC, cuyo objetivo principal era desarrollar una plataforma que habilite servicios livianos, distribuidos y robustos en ambientes de redes de telefonía _Beyond 3rd Generation._
+- Con 11 partner europeos, definimos un ambiente de desarrollo, un middleware y un framework de validación.
+- En Pragma Consultores desarrollamos un prototipo de eSalud _(Pocket Doctor),_ mostrando los resultados innovadores del proyecto.
 
 Líder Grupo de Ingeniería de Procesos de PM para Banco Galicia (04/2005 a 03/2009):
 •	Empezó como especialista metodológico y luego lideró el grupo de Diseño de Procesos de Gestión de Proyectos para los distintos sectores de la Gerencia de Sistemas (350 personas) del Banco Galicia. Considerando estándares como CMMI, OPM3 y metodologías ágiles, trabajando de manera participativa a través de workshops y coaching, y apoyándose en herramientas como MS EPM o herramientas propias, se definen, prueban, implementan y mejoran los procesos para la gestión de proyectos y portfolios. 
