@@ -38,7 +38,7 @@ Bot de Telegram para la gestión grupal de albums de fotos: automatiza la subida
 - IA: Jules y GS Copilot
 
 ⌚ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  
-Automatización del diagnostico inicial del [programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y del monitoreo de avances de participantes compartido con clientes.
+Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y del monitoreo de avances de participantes compartido con clientes.
 - Stack: Google Apps Script, Zappier, Teachable API, Google Mail API
 
 ---
