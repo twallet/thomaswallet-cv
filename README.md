@@ -51,7 +51,6 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Implementé soluciones de [ejemplo] que optimizaron procesos.  
 - Desarrollé habilidades de gestión, comunicación y resolución de problemas.
 
-
 ### Banco Provincia del Neuquen
 #### Responsable Productos Pasivos (Neuquén) 
 📅 Sep 2014 a Dic 2015
@@ -64,6 +63,10 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Implementamos una Oficina de Gestión de Proyectos (PMO) para los proyectos de negocio críticos del Banco. 
 - Diseñamos, capacitamos y dimos soporte en procesos de gestión de proyectos y de portafolio para todas/os las/los líderes del banco.
 - Co-lideré varios proyectos estratégicos: construcción de un edificio, migración del sistema core con _**Scrum**_, lanzamiento préstamos pre-acordados, selección de ERP, entre otros.
+
+### Docente eLearnings Agile / UTN (Buenos Aires)
+📅 Apr 2011 a Dic 2020
+- Desarrollé y facilité los siguientes eLearnings, en los cuales participaron más de 2100 personas: Metodologías Ágiles para el Desarrollo de Software (28 ediciones), Scrum Grand Master (32 ediciones), Preparación a la Certificatión PMI-ACP (35 ediciones).
 
 ### Pragma Consultores  
 #### Gerente de Servicios / Pragma Consultores (Neuquén)  
