@@ -27,21 +27,19 @@ Busco mi primera oportunidad en un equipo de desarrollo donde pueda seguir creci
 ## 📂 Proyectos Destacados
 Si bien no trabajo de programador desde hace muchos años, siempre estuve programando por hobby. 
 
-habitus, coctelera, Radar de Liderazgo, Automatización Mejores Tiempos, Excells Galicia
-
 🤖 [Bot Habitus]()  XXXXXXXXXXXXXXXXXXXXXXXXXXX
 Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periodicos.  
-Stack: Google Apps Script (Orientado a Objetos), Telegram Bot API, Google Sheets API  
-IA: GS Copilot
+- Stack: Google Apps Script (Orientado a Objetos), Telegram Bot API, Google Sheets API  
+- IA: GS Copilot
 
 🤖 [Bot Albums Of Communities](https://github.com/twallet/albumsofcommunitiesbot)  
 Bot de Telegram para la gestión grupal de albums de fotos: automatiza la subida y organización de fotos/videos recibidos en un grupo de Telegram a una carpeta de Google Drive.  
-Stack: Google Apps Script, Telegram Bot API, Google Drive API, Google Sheets API  
-IA: Jules y GS Copilot
+- Stack: Google Apps Script, Telegram Bot API, Google Drive API, Google Sheets API  
+- IA: Jules y GS Copilot
 
 ⌚ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-Automatización del diagnostico inicial del [programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y del monitoreo de avances de participantes compartido con clientes.
-Stack: Google Apps Script, Zappier, Teachable API, Google Mail API
+Automatización del diagnostico inicial del [programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y del monitoreo de avances de participantes compartido con clientes.  
+- Stack: Google Apps Script, Zappier, Teachable API, Google Mail API
 
 ---
 
