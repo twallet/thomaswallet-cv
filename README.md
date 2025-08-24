@@ -51,6 +51,20 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Implementé soluciones de [ejemplo] que optimizaron procesos.  
 - Desarrollé habilidades de gestión, comunicación y resolución de problemas.
 
+
+### Banco Provincia del Neuquen
+#### Responsable Productos Pasivos (Neuquén) 
+📅 Sep 2014 a Dic 2015
+- Diseñe y comercialicé nuevos productos y servicios para la bancarización y captación de fondos.
+- Implementé herramientas de _**BI**_ para monitoreo, control e inteligencia de negocio.
+- Realicé benchmarkings y guardia normativa. 
+
+#### Líder PMO Gerencia General (Neuquén)
+📅 Jul 2013 a Ago 2014
+- Implementamos una Oficina de Gestión de Proyectos (PMO) para los proyectos de negocio críticos del Banco. 
+- Diseñamos, capacitamos y dimos soporte en procesos de gestión de proyectos y de portafolio para todas/os las/los líderes del banco.
+- Co-lideré varios proyectos estratégicos: construcción de un edificio, migración del sistema core con _**Scrum**_, lanzamiento préstamos pre-acordados, selección de ERP, entre otros.
+
 ### Pragma Consultores  
 #### Gerente de Servicios / Pragma Consultores (Neuquén)  
 📅 Nov 2010 a Jun 2013  
@@ -68,7 +82,7 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 
 #### Coach Agile / Pragma Consultores (Buenos Aires y Neuquén)  
 📅 Abr 2009 a Mar 2013  
-- Inicié y desarrollé la _Comunidad Agile_ de la empresa, para la capacitación en prácticas agiles _**(XP, Scrum, Kanban)**_ de los consultores.
+- Inicié y desarrollé la _Comunidad Agile_ de la empresa, para la capacitación en prácticas agiles _**(XP, Scrum, Kanban)**_ de las/los consultoras/es.
 - Ayudé a aplicar prácticas ágiles en los servicios de Pragma Consultores.
 - Di servicios de capacitación y coaching en prácticas agiles para distintos clientes.
 
@@ -100,7 +114,7 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 ### Laboratorio de Investigación y Formación en Informática Avanzada (LIFIA-UNLP)  
 #### Líder de Desarrollo / Movicom Bellsouth (Buenos Aires)  
 📅 Ene 2003 a Dic 2004  
-- Lideré un equipo de 10 desarrolladores y QA en varios proyectos de desarrollo sobre un framework _**J2EE** (Movics3)._  
+- Lideré un equipo de 10 desarrolladoras/es y QA en varios proyectos de desarrollo sobre un framework _**J2EE** (Movics3)._  
 - A cargo de la relación con el cliente y su gestión comercial, hicé crecer el equipo y aprendí a gestionar proyectos de desarrollo.  
 
 #### Responsable Área de Calidad y Procesos / LIFIA-UNLP (La Plata)  
