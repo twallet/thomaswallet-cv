@@ -72,11 +72,14 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Ayudé a aplicar prácticas ágiles en los servicios de Pragma Consultores.
 - Di servicios de capacitación y coaching en prácticas agiles para distintos clientes.
 
-Líder del Servicio de Aplication Management Office para TecPetrol (01/2009 a 09/2010).
-•	Líder del servicio de mantenimiento de 6 aplicaciones para TecPetrol sobre tecnologías ASP y .Net, que cuenta con 12 personas (analistas técnicos, desarrolladores y testers).
+#### Líder de Mantenimiento de Aplicaciones / TecPetrol (Buenos Aires)  
+📅 Ene 2009 a Sep 2010  
+- Lideré un equipo de 25 personas para el mantenimiento de 6 aplicaciones, con tecnología _**ASP, .Net, Qlikview, Oracle.**_  
+- Implementé prácticas de _**Extreme Programming**_ con procesos _**CMMI**_ nivel 2.  
 
-Líder de Proyecto de CRM en Banca Minorista para Banco Galicia (03/2009 a 09/2009).
-•	Líder de los frentes funcionales y de sistemas del desarrollo sobre SIEBEL de una solución de CRM en banca minorista a implementar en las 400 sucursales del Banco Galicia.
+#### Líder de Proyecto de CRM en Banca Minorista / Banco Galicia (Buenos Aires)  
+📅 Mar a Sep 2009  
+- Lideré los frentes funcionales y de sistemas del desarrollo sobre _**SIEBEL**_ de una solución de CRM en banca minorista a implementar en 400 sucursales.
 
 Líder de Desarrollo sobre Microsoft EPM para Volvo IT Francia (08/2008).
 •	Líder de proyecto piloto de desarrollo y customización offshore sobre Microsoft EPM de un catálogo de los proyectos de TI del grupo Volvo.
