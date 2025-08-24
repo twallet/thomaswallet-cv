@@ -51,11 +51,18 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Implementé soluciones de [ejemplo] que optimizaron procesos.  
 - Desarrollé habilidades de gestión, comunicación y resolución de problemas.
 
+### Agile Coach / Kleer (Cipolletti, Rio Negro)  
+📅 Desde Ene 2016
+- Trabajé con multiples empresas en Latinoamérica y Europa: Banco Galicia, KPMG, Telecom, Total, YPF en Argentina, Neoris, BBVA Next, Rollup Consulting en España, BBVA Continental en Perú, Falabella Finanzas en Chile, SmartRX, Caméon, Netia en Francia, David Systems en Alemania, entre otros.
+-	Di coaching ágil para la (re)-construcción de equipos, con _**Scrum, Kanban, Visual Management, Improvement Kata**_ y _**Frameworks de Escalado**_ para multinacionales en Latinoamérica.
+-	Di capacitaciones en _**Retrospectivas, Scrum, Kanban, Visual Management, Frameworks de Escalado**_ y _**Time Management**_ en Latinoamérica y Europa.
+- Co-desarrollé un programa de _Desarrollo de Liderazgo Ágil_ basado en _Reinventing Organizations,_ con su _Radar de Liderazgo_ (desarrollado en _**Google App Script**)_, capacitaciones y coaching ejecutivo, que tuvo cerca de 20 ediciones en NaranjaX, Laureate (Perú), Comercial Nutresa (Colombia), YPF 
+
 ### Banco Provincia del Neuquen
 #### Responsable Productos Pasivos (Neuquén) 
 📅 Sep 2014 a Dic 2015
 - Diseñe y comercialicé nuevos productos y servicios para la bancarización y captación de fondos.
-- Implementé herramientas de _**BI**_ para monitoreo, control e inteligencia de negocio.
+- Implementé herramientas de _**Business Inteligence**_ para monitoreo, control e inteligencia de negocio.
 - Realicé benchmarkings y guardia normativa. 
 
 #### Líder PMO Gerencia General (Neuquén)
@@ -67,6 +74,13 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 ### Docente eLearnings Agile / UTN (Buenos Aires)
 📅 Apr 2011 a Dic 2020
 - Desarrollé y facilité los siguientes eLearnings, en los cuales participaron más de 2100 personas: Metodologías Ágiles para el Desarrollo de Software (28 ediciones), Scrum Grand Master (32 ediciones), Preparación a la Certificatión PMI-ACP (35 ediciones).
+
+### Agile Coach y Speaker / El Próximo Paso (Cipolletti, Rio Negro)
+📅 Desde May 2010
+- Di presentaciones en empresas, eventos y webinars para más de 6.400 personas.
+- Capacité presencialmente y online a más de 4.700 personas en Europa y Latinoamérica.
+- Diseñé y facilité más de 270 sesiones de mejora para equipos.
+-	Di coaching a más de 170 equipos, desde PyMEs a multinacionales en distintos mercados.
 
 ### Pragma Consultores  
 #### Gerente de Servicios / Pragma Consultores (Neuquén)  
