@@ -62,7 +62,7 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Lideré el servicio de gestión del proyecto de implementación de _**SAP**_ (9 módulos) en la planta de agua pesada de Arroyito, y de control de proveedor. 
 - Lideré el equipo de QA de la implementación de SAP. 
 
-#### Líder de Desarrollo / Movistar  
+#### Líder de Desarrollo / Movistar (Buenos Aires)  
 📅 Abr a Sep 2010  
 - Lideré el desarrollo de varias aplicaciones con _**Java, Flex**_ y _**Cobol**._
 
