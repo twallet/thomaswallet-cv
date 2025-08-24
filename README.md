@@ -60,14 +60,17 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 #### Líder Control de Implementación de SAP / ENSI (Neuquén) 
 📅 Oct 2010 a Sep 2011
 - Lideré el servicio de gestión del proyecto de implementación de _**SAP**_ (9 módulos) en la planta de agua pesada de Arroyito, y de control de proveedor. 
-- Lideré el equipo de QA de la implementación de SAP. 
+- Lideré el equipo de QA de la implementación de SAP (4 personas). 
 
 #### Líder de Desarrollo / Movistar (Buenos Aires)  
 📅 Abr a Sep 2010  
 - Lideré el desarrollo de varias aplicaciones con _**Java, Flex**_ y _**Cobol**._
 
-Coach Agile (04/2009 a 03/2013).
-•	Coordinador la Comunidad Agile de Pragma Consultores para la capacitación en prácticas agiles (XP, Scrum, Kanban) de los consultores, el coaching en su aplicación en servicios de Pragma y los servicios de coaching en prácticas agiles a clientes.
+#### Coach Agile / Pragma Consultores (Buenos Aires y Neuquén)  
+📅 Abr 2009 a Mar 2013  
+- Inicié y desarrollé la _Comunidad Agile_ de la empresa, para la capacitación en prácticas agiles _**(XP, Scrum, Kanban)**_ de los consultores.
+- Ayudé a aplicar prácticas ágiles en los servicios de Pragma Consultores.
+- Di servicios de capacitación y coaching en prácticas agiles para distintos clientes.
 
 Líder del Servicio de Aplication Management Office para TecPetrol (01/2009 a 09/2010).
 •	Líder del servicio de mantenimiento de 6 aplicaciones para TecPetrol sobre tecnologías ASP y .Net, que cuenta con 12 personas (analistas técnicos, desarrolladores y testers).
@@ -100,12 +103,12 @@ Desarrollo de Nuevos Servicios:
 
 #### Responsable Área de Calidad y Procesos / LIFIA-UNLP (La Plata)  
 📅 2001 a 2004  
-- Lideré el área a cargo de la definición y implementación de métodología de desarrollo de software, en base a estándares internacionales como _**CMM**_ e _**IEEE**_).  
+- Lideré el área a cargo de la definición y implementación de _**métodología de desarrollo de software,**_ en base a estándares internacionales como _**CMM**_ e _**IEEE**_).  
 - Creamos el _FRAmework de Procesos Esenciales (FRAPE)_ para el desarrollo de software, aplicado y mejorado en más de 20 proyectos de desarrollo.  
   
 ### Investigador QA Automation / Tele Atlas Lab NV (Bélgica)  
-📅 2000
-- Proyecto de investigación del _System and Software Engineering Laboratory_ de la _Vrije Universiteit Brussel_ para garantizar la calidad de datos geográficos.
+📅 Oct 1999 a Feb 2001
+- Proyecto de investigación del _System and Software Engineering Laboratory_ de la _Vrije Universiteit Brussel_ para garantizar la calidad de datos geográficos _(GIS)._
 - Diseño de un lenguaje de reglas de negocios sobre datos geográficos basado en _**OCL** (Object Constraint Language)._
 - Desarrollo en _**Visual Basic**_ de parser y compilador, y generación del código para chequeo automatico sobre grandes bases de datos.
   
