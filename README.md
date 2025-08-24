@@ -86,30 +86,25 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Participé de una prueba de concepto de un catalogo de los proyectos de TI del grupo Volvo con _##Javascript##_ sobre _**Microsoft EPM**_.
 
 #### Líder Proyecto de Investigación PLASTIC / European IST Research (Buenos Aires)  
-📅  Feb 2006 a Sep 2008
+📅 Feb 2006 a Sep 2008
 - Lideré la participación de Pragma Consultores al proyecto de investigación de la Comunidad Europea PLASTIC, cuyo objetivo principal era desarrollar una plataforma que habilite servicios livianos, distribuidos y robustos en ambientes de redes de telefonía _Beyond 3rd Generation._
 - Con 11 partner europeos, definimos un ambiente de desarrollo, un middleware y un framework de validación.
-- En Pragma Consultores desarrollamos un prototipo de eSalud _(Pocket Doctor),_ mostrando los resultados innovadores del proyecto.
+- En Pragma Consultores desarrollamos un prototipo mobile de eSalud _(Pocket Doctor),_ mostrando los resultados innovadores del proyecto.
 
-Líder Grupo de Ingeniería de Procesos de PM para Banco Galicia (04/2005 a 03/2009):
-•	Empezó como especialista metodológico y luego lideró el grupo de Diseño de Procesos de Gestión de Proyectos para los distintos sectores de la Gerencia de Sistemas (350 personas) del Banco Galicia. Considerando estándares como CMMI, OPM3 y metodologías ágiles, trabajando de manera participativa a través de workshops y coaching, y apoyándose en herramientas como MS EPM o herramientas propias, se definen, prueban, implementan y mejoran los procesos para la gestión de proyectos y portfolios. 
-
-Especialista Metodológico para Interbanking (01/2005 a 03/2005): 
-•	Soporte metodológico para la adaptación de la metodología de Pragma para desarrollo y gestión de proveedores.
-
-Desarrollo de Nuevos Servicios:
-•	Iniciativas internas para el desarrollo de nuevos servicios de Pragma Consultores: Oficina de Calidad, Testing de Aplicaciones Mobile y Coaching en Scrum. Participó en la elaboración de un modelo de madurez de PM basado en CMMI y OPM3: Plan & Play, 
-•	Organización de mesas de trabajo para desarrollar servicios de consultoría en Oil & Gas No Convencional y en Evaluación de Agilidad.
-
+#### Mejora de Procesos / Banco Galicia (Buenos Aires)  
+📅 Feb 2005 a Mar 2009
+- Diseñamos los procesos de Gestión de Proyectos para los distintos sectores de la Gerencia de Sistemas (350 personas), integrando estándares como _**CMMI, OPM3**_ y prácticas _**ágiles,**_.  
+- Lideré el Grupo de Mejora de Procesos, trabajando de manera participativa a través de workshops y coaching, para probar, implementar y mejorar los procesos para la gestión de proyectos y portfolios.
+- Desarrollé herramientas propias en _**Microsoft Excel, Macros**_ y _**Microsoft EPM**_.
 
 ### Laboratorio de Investigación y Formación en Informática Avanzada (LIFIA-UNLP)  
 #### Líder de Desarrollo / Movicom Bellsouth (Buenos Aires)  
-📅 2003 a 2004  
+📅 Ene 2003 a Dic 2004  
 - Lideré un equipo de 10 desarrolladores y QA en varios proyectos de desarrollo sobre un framework _**J2EE** (Movics3)._  
 - A cargo de la relación con el cliente y su gestión comercial, hicé crecer el equipo y aprendí a gestionar proyectos de desarrollo.  
 
 #### Responsable Área de Calidad y Procesos / LIFIA-UNLP (La Plata)  
-📅 2001 a 2004  
+📅 Feb 2001 a Dic 2004  
 - Lideré el área a cargo de la definición y implementación de _**métodología de desarrollo de software,**_ en base a estándares internacionales como _**CMM**_ e _**IEEE**_).  
 - Creamos el _FRAmework de Procesos Esenciales (FRAPE)_ para el desarrollo de software, aplicado y mejorado en más de 20 proyectos de desarrollo.  
   
