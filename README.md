@@ -62,27 +62,29 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 - Construí y lideré la Oficina de Gestión de Proyectos (PMO), optimizando procesos y metodologías para proyectos estratégicos del banco.
 - Co-lideré proyectos clave, incluyendo construcción de un edificio, migraciones del core bancario (con _**Scrum**_), lanzamiento de préstamos preacordados, selección de ERP, asegurando alineamiento con los objetivos institucionales.
 
-### Docente eLearnings Agile / UTN (Buenos Aires)
+### Docente eLearning Agile / UTN (Buenos Aires)
 📅 Abr 2011 a Dic 2020
-- Desarrollé y facilité los siguientes eLearnings, en los cuales participaron más de 2100 personas: Metodologías Ágiles para el Desarrollo de Software (28 ediciones), Scrum Grand Master (32 ediciones), Preparación a la Certificación PMI-ACP (35 ediciones).
+- Diseñé y facilité cursos online sobre metodologías ágiles para el desarrollo de software, incluyendo Scrum y PMI-ACP, con más de 2.100 participantes en total.
+- Impartí más de 95 ediciones de los cursos, formando profesionales en Argentina y otros países de Latinoamérica.
+- Desarrollé materiales didácticos y programas de entrenamiento acreditados, promoviendo la adopción de prácticas ágiles y buenas prácticas de gestión de proyectos.
 
 ### Agile Coach y Speaker / El Próximo Paso (Cipolletti, Rio Negro)
 📅 Desde May 2010
-- Di presentaciones en empresas, eventos y webinars para más de 6.400 personas.
-- Capacité presencialmente y online a más de 4.700 personas en Europa y Latinoamérica.
-- Diseñé y facilité más de 270 sesiones de mejora para equipos.
--	Di coaching a más de 170 equipos, desde PyMEs a multinacionales en distintos mercados.
+- Realicé presentaciones en empresas, eventos y webinars, alcanzando a más de 6.400 personas en total.
+- Capacité presencialmente y en línea a más de 4.700 profesionales en Europa y Latinoamérica, en temas de agilidad, liderazgo, gestión del tiempo y facilitación.
+- Diseñé y facilité más de 270 sesiones de mejora de equipos, promoviendo prácticas de autogestión, retrospectives, priorización y visual management.
+-	Acompañé a más de 170 equipos, desde PyMEs hasta multinacionales, en la adopción y mejora de prácticas ágiles.
 
 ### Pragma Consultores  
 #### Gerente de Servicios / Pragma Consultores (Neuquén)  
 📅 Nov 2010 a Jun 2013  
-- Gerencié la sucursal de Neuquén de Pragma Consultores (20 personas): servicios locales, actividades comerciales, staffing, presupuesto, administración e infraestructura. 
-- Participé en consultoría local en industrias frutícola, financiera, energía en servicios de selección de productos/proveedores, gestión de proyectos, capacitaciones tecnológicas, QA, procesos, entre otros. 
+- Gestioné la sucursal de Neuquén (20 personas), coordinando servicios locales, actividades comerciales, staffing, presupuestos y administración.
+- Participé en consultoría para industrias frutícola, financiera y energética, apoyando en selección de productos, gestión de proyectos, capacitaciones y QA.
   
 #### Líder Control de Implementación de SAP / ENSI (Neuquén) 
 📅 Oct 2010 a Sep 2011
-- Lideré el servicio de gestión del proyecto de implementación de _**SAP**_ (9 módulos) en la planta de agua pesada de Arroyito, y de control de proveedor. 
-- Lideré el equipo de QA de la implementación de SAP (4 personas). 
+- Lideré la gestión del proyecto de implementación de _**SAP**_ (9 módulos) en la planta de agua pesada de Arroyito, incluyendo la coordinación del equipo de QA y control de proveedores.
+- Supervisé el equipo de QA de la implementación de SAP (4 personas).
 
 #### Líder de Desarrollo / Movistar (Buenos Aires)  
 📅 Abr a Sep 2010  
