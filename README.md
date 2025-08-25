@@ -49,7 +49,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 📅 Ene 2016 a Dic 2024
 - Capacitación y coaching ágil (_**Scrum, Kanban, Retrospectivas, Visual Management, Improvement Kata**_ y _**Frameworks de Escalado**_, entre otros) para empresas en Latinoamérica y Europa, incluyendo Banco Galicia, KPMG, Telecom, YPF, Neoris, BBVA, Falabella, entre otros.
 - Facilité numerosos eventos sobre _**Agilidad**_, para _**Team Building**_ y _**Planificación Estratégica**_ en comunidades y empresas. 
-- Co-desarrollé un programa de _Liderazgo Ágil_ basado en _Reinventing Organizations,_ aplicado en varias empresas, con cerca de 20 ediciones.
+- Co-desarrollé un programa de _**Liderazgo Ágil**_ basado en _Reinventing Organizations,_ aplicado en varias empresas, con cerca de 20 ediciones.
 
 ### Banco Provincia del Neuquén
 #### Responsable Productos Pasivos (Neuquén) 
