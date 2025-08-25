@@ -7,20 +7,9 @@
 ---
 
 ## ♻️ Perfil
-Soy desarrollador web junior en proceso de reconversión, con trayectoria previa en [tu área anterior].  
-Me apasiona la tecnología y la resolución de problemas. Cuento con conocimientos en JavaScript, Google Apps Script y automatización de procesos, además de habilidades blandas como trabajo en equipo, comunicación y gestión.  
-
-Busco mi primera oportunidad en un equipo de desarrollo donde pueda seguir creciendo y aportar valor desde el primer día.  
-
----
-
-## 🛠️ Habilidades Técnicas
-- Lenguajes: GoogleAppScript, JavaScript
-- Zappier, Programación Orientada a Objetos
-- Frameworks / Librerías: React, Node.js, Express  
-- Bases de Datos: MySQL, MongoDB, Firebase  
-- Herramientas: GitHub, GoogleAppsScript, VSCode  
-- Otros: APIs REST, metodologías ágiles, testing  
+En mis 26 años de carrera pude desarrollarme en roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo.  
+En los últimos años me conecté nuevamente con la programación, mi formación inicial. Me apasiona cada vez más, y hoy quiero reconvertirme en desarrollador.  
+Domino Google App Script/Javascript y algunas herramientas de automatización. Si bien estoy desactualizado técnicamente, aprendo rápidamente, y creo que puedo aportar mi experiencia en distintos aspectos relacionados al desarrollo como la relación con clientes o las prácticas (técnicas) ágiles.
 
 ---
 
@@ -45,16 +34,10 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 
 ## 💼 Experiencia Laboral
 
-[Tu puesto anterior] – Empresa XYZ  
-📅 _Años de inicio – fin_  
-- Lideré proyectos de [ejemplo], trabajando con equipos interdisciplinarios.  
-- Implementé soluciones de [ejemplo] que optimizaron procesos.  
-- Desarrollé habilidades de gestión, comunicación y resolución de problemas.
-  
 ### Fundador y Time Maker / Next Steps Lab (Cipolletti, Rio Negro)
-📅 Desde Sep 2023 
-- Desarrollé una plataforma de eLearning sobre _**Teachable**_ con automatizaciones con _**Zappier**_ y _**Google App Script**_.
+📅 Desde Sep 2023  
 - Ofrezco cursos online de Gestión del Tiempo, Productividad y Slow para personas y empresas, en los cuales participaron más de 2.600 personas.
+- Desarrollé una plataforma de eLearning sobre _**Teachable**_ con automatizaciones en _**Zappier**_ y _**Google App Script**_.
 - Acompaño personas y empresas en la mejora de gestión del tiempo, de ritmos y de reuniones y agenda sostenible. 
 
 ### Agile Coach / Kleer (Cipolletti, Rio Negro)  
@@ -62,6 +45,7 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 - Trabajé con multiples empresas en Latinoamérica y Europa: Banco Galicia, KPMG, Telecom, Total, YPF en Argentina, Neoris, BBVA Next, Rollup Consulting en España, BBVA Continental en Perú, Falabella Finanzas en Chile, SmartRX, Caméon, Netia en Francia, David Systems en Alemania, entre otros.
 -	Di coaching ágil para la (re)-construcción de equipos, con _**Scrum, Kanban, Visual Management, Improvement Kata**_ y _**Frameworks de Escalado**_ para multinacionales en Latinoamérica.
 -	Di capacitaciones en _**Retrospectivas, Scrum, Kanban, Visual Management, Frameworks de Escalado**_ y _**Time Management**_ en Latinoamérica y Europa.
+- Facilité varios eventos _**Ágiles**_, _**Open Space**_, _**Team Building**_, _**Retiros**_ en comunidades y empresas. 
 - Co-desarrollé un programa de _Desarrollo de Liderazgo Ágil_ basado en _Reinventing Organizations,_ con su _Radar de Liderazgo_ (desarrollado en _**Google App Script**)_, capacitaciones y coaching ejecutivo, que tuvo cerca de 20 ediciones en NaranjaX, Laureate (Perú), Comercial Nutresa (Colombia) e YPF. 
 
 ### Banco Provincia del Neuquen
