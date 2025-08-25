@@ -7,7 +7,7 @@
 ---
 
 ## ♻️ Perfil
-Con 26 años de carrera, desarrollé diversos roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. Mi trayectoria me ha brindado una perspectiva amplia y valiosa, y recientemente redescubrí mi pasión inicial: la programación.  
+Con 26 años de carrera, desarrollé diversos roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. Mi trayectoria me ha brindado una perspectiva amplia y valiosa, y recientemente redescubrí mi pasión inicial por la programación a través de side-projects.    
 
 Mi motivación para reconvertirme en desarrollador (full-stack) surge de mi deseo de crear soluciones directamente con código, aplicando mis conocimientos técnicos y mi experiencia en la gestión de proyectos y dinámicas de desarrollo. Aunque reconozco la necesidad de actualizarme en algunas tecnologías, cuento con una base sólida en ingeniería de software, liderazgo y prácticas ágiles, lo que me permitirá aprender rápidamente y aportar valor en un equipo.  
 
