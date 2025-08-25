@@ -7,11 +7,9 @@
 ---
 
 ## ♻️ Perfil
-Con 26 años de carrera, desarrollé diversos roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. Mi trayectoria me ha brindado una perspectiva amplia y valiosa, y recientemente redescubrí mi pasión inicial por la programación a través de side-projects.    
-
-Mi motivación para reconvertirme en desarrollador (full-stack) surge de mi deseo de crear soluciones directamente con código, aplicando mis conocimientos técnicos y mi experiencia en la gestión de proyectos y dinámicas de desarrollo. Aunque reconozco la necesidad de actualizarme en algunas tecnologías, cuento con una base sólida en ingeniería de software, liderazgo y prácticas ágiles, lo que me permitirá aprender rápidamente y aportar valor en un equipo.  
-
-Estoy particularmente interesado en roles donde pueda combinar mis habilidades técnicas con mi experiencia en la relación con clientes, la optimización de procesos de desarrollo, las buenas prácticas técnicas, contribuyendo a la creación de productos innovadores y de alta calidad. 
+Con 26 años de carrera, desarrollé diversos roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. Mi trayectoria me ha brindado una perspectiva amplia y diversa.  
+En los últimos años redescubrí mi pasión inicial por la programación a través de side-projects, y decidí volver a dedicarme al desarrollo, aprovechando mis conocimientos técnicos y mi experiencia en la gestión de proyectos y dinámicas de desarrollo.   
+Aunque reconozco la necesidad de actualizarme en algunas tecnologías, cuento con una base sólida en ingeniería de software, gestión de clientes, liderazgo y prácticas ágiles, lo que me permitirá aprender rápidamente y aportar valor en un equipo.   
 
 ---
 ## ⚒️ Competencias Técnicas
@@ -39,13 +37,13 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 ## 💼 Experiencia Laboral
 
-### Fundador y Time Maker / Next Steps Lab (Cipolletti, Rio Negro)
+### Fundador y Time Maker / Next Steps Lab (Cipolletti, Río Negro)
 📅 Desde Sep 2023  
 - Ofrezco cursos online de Gestión del Tiempo, Productividad y Slow para personas y empresas, con más de 2.600 participantes.
 - Desarrollé una plataforma de eLearning en _**Teachable**_ con automatizaciones en _**Zappier**_ y _**Google App Script**_.
 - Acompaño personas, equipos y empresas en la mejora de gestión del tiempo, ritmos y reuniones efectivas.
 
-### Agile Coach / Kleer (Cipolletti, Rio Negro)  
+### Agile Coach / Kleer (Cipolletti, Río Negro)  
 📅 Ene 2016 a Dic 2024
 - Capacitación y coaching ágil (_**Scrum, Kanban, Retrospectivas, Visual Management, Improvement Kata**_ y _**Frameworks de Escalado**_, entre otros) para empresas en Latinoamérica y Europa, incluyendo Banco Galicia, KPMG, Telecom, YPF, Neoris, BBVA, Falabella, entre otros.
 - Facilité numerosos eventos sobre _**Agilidad**_, para _**Team Building**_ y _**Planificación Estratégica**_ en comunidades y empresas. 
@@ -66,9 +64,9 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 📅 Abr 2011 a Dic 2020
 - Diseñé y dicté 95 ediciones de cursos online sobre metodologías ágiles para el desarrollo de software, incluyendo Scrum y PMI-ACP, con más de 2.100 participantes en total.
 
-### Agile Coach y Speaker / El Próximo Paso (Cipolletti, Rio Negro)
+### Agile Coach y Speaker / El Próximo Paso (Cipolletti, Río Negro)
 📅 Desde May 2010
-- Realicé presentaciones en empresas, eventos y webinars, alcanzando a más de 6.400 personas en total.
+- Dí exposiciones en empresas, eventos y webinars, alcanzando a más de 6.400 personas en total.
 - Capacité presencialmente y en línea a más de 4.700 profesionales en Europa y Latinoamérica, en temas de agilidad, liderazgo, gestión del tiempo y facilitación.
 - Diseñé y facilité más de 270 sesiones de mejora de equipos, promoviendo prácticas de autogestión, retrospectives, priorización y visual management.
 -	Acompañé a más de 170 equipos, desde PyMEs hasta multinacionales, en la adopción y mejora de prácticas ágiles.
