@@ -21,17 +21,17 @@ Estoy particularmente interesado en roles donde pueda combinar mis habilidades t
 - IA: Jules, GAS Copilot
 
 ## 📂 Desarrollos Destacados  
-🤖 [Bot Habitus ¡FALTA LINK!] 2025    
+🤖 [Bot Habitus ¡FALTA LINK!] 📅 2025    
 Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periódicos.  
 - Stack: Google Apps Script (Orientado a Objetos), Telegram Bot API, Google Sheets API  
 - IA: GS Copilot
 
-🤖 [Bot Albums Of Communities](https://github.com/twallet/albumsofcommunitiesbot)  2025  
+🤖 [Bot Albums Of Communities](https://github.com/twallet/albumsofcommunitiesbot) 📅 2025  
 Bot para la gestión grupal de álbumes de fotos en Telegram: automatiza la subida y organización de fotos/videos en Google Drive.  
 - Stack: Google Apps Script, Telegram Bot API, Google Drive API, Google Sheets API  
 - IA: Jules y GS Copilot
 
-⏱️ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  2019    
+⏱️ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos) 📅 2019    
 Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y monitoreo de avances de participantes compartido con clientes.  
 - Stack: Google Apps Script, Zappier, Teachable API, Google Mail API
 
@@ -138,20 +138,18 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 ## 🎓 Formación Académica
 
-- European Master in Object Oriented Software Engineering (EMOOSE) / [Vrije Universiteit Brussels](https://www.vub.be/en), Bélgica  
-📅 Sep 1998 a Ago 1999  
-- Ingeniero Industrial con Especialización en Ingeniería de Software / [École des Mines de Nantes / Institut Mines-Télécom](https://www.imt-atlantique.fr/en), Francia  
-📅 Sep 1995 a Ago 1999  
+- European Master in Object Oriented Software Engineering (EMOOSE) / [Vrije Universiteit Brussels](https://www.vub.be/en), Bélgica 📅 Sep 1998 a Ago 1999  
+- Ingeniero Industrial con Especialización en Ingeniería de Software / [École des Mines de Nantes / Institut Mines-Télécom](https://www.imt-atlantique.fr/en), Francia 📅 Sep 1995 a Ago 1999  
 
 ### Principales Capacitaciones  
 
-- Facilitar un Círculo de Hombres / [Colmena Comunicación No Violenta](https://www.instagram.com/colmenaenlinea/?hl=es), 📅 2022
-- Professional Agile Coach (PAC) / [Kleer](https://www.kleer.la/es), 2018
-- Art Of Hosting / [Conversaciones para Todos](https://www.linkedin.com/company/conversaciones-para-todos), 📅 2016
-- Certified Scrum Practitionner (CSP) / [Scrum Alliance](https://www.scrumalliance.org), 2010
-- Certified Scrum Master (CSM) / [Scrum Alliance](https://www.scrumalliance.org), 2009
-- Certified Software Quality Engineer (CSQE) / [American Society for Quality](https://asq.org), 2006
--	Programa de Liderazgo Eficaz / [Interludios](https://www.interludiosgroup.com.ar), 2006
+- Facilitar un Círculo de Hombres / [Colmena Comunicación No Violenta](https://www.instagram.com/colmenaenlinea/?hl=es) 📅 2022
+- Professional Agile Coach (PAC) / [Kleer](https://www.kleer.la/es) 📅 2018
+- Art Of Hosting / [Conversaciones para Todos](https://www.linkedin.com/company/conversaciones-para-todos) 📅 2016
+- Certified Scrum Practitionner (CSP) / [Scrum Alliance](https://www.scrumalliance.org) 📅 2010
+- Certified Scrum Master (CSM) / [Scrum Alliance](https://www.scrumalliance.org) 📅 2009
+- Certified Software Quality Engineer (CSQE) / [American Society for Quality](https://asq.org) 📅 2006
+-	Programa de Liderazgo Eficaz / [Interludios](https://www.interludiosgroup.com.ar) 📅 2006
 
 ---
 
@@ -163,14 +161,14 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 ---
 ## 🕯️Comunidades y Eventos
 
-- [Agile Open Camp](https://agileopen.camp)  
+- [Agile Open Camp](https://agileopen.camp) 📅 Desde 2014  
   - Co-fundé el evento Agile Open Camp (AOC), con 15 ediciones en 5 países, incluyendo versiones online durante la pandemia.  
   - Co-organicé las ediciones del AOC en Bariloche (2015 y 2016), Chile (2017 y 2018), España (2019), y _AOC en tu casa_ (2020).
 
 - Comunidades  
-  - Co-fundé la [Comunidad de Facilitadores/as de la Confluencia](https://www.elproximopaso.net/2018/12/facilitadores-confluencia.html) (2018-2020)  
-  - Fundé la Comunidad Ágiles Alto Valle, capítulo regional de [Ágiles Argentina](https://www.meetup.com/es-ES/agiles-arg) (2015-2017)  
-  - Fundé la [Comunidad Ágil de Neuquén](https://www.elproximopaso.net/2012/03/primera-reunion-de-la-comunidad-agil-de.html) (2012)  
+  - Co-fundé la [Comunidad de Facilitadores/as de la Confluencia](https://www.elproximopaso.net/2018/12/facilitadores-confluencia.html) 📅 2018 a 2020  
+  - Fundé la Comunidad Ágiles Alto Valle, capítulo regional de [Ágiles Argentina](https://www.meetup.com/es-ES/agiles-arg)  📅 2015 a 2017    
+  - Fundé la [Comunidad Ágil de Neuquén](https://www.elproximopaso.net/2012/03/primera-reunion-de-la-comunidad-agil-de.html) 📅 2012  
     
 - Speaker en eventos de Argentina, Bolivia, Chile, Ecuador, Perú, Uruguay, Venezuela, Francia, España y en eventos en línea, dictando keynotes y talleres sobre temáticas de:  
   - **Agilidad:** Retrospectivas, No Estimates, Scrum, Kanban, Priorización, Visual Management, Liderazgo Ágil  
@@ -181,13 +179,13 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 ---
 ## 📚 Publicaciones
 
-- [DoR Kards: Cocreando la Definición de Listo del Equipo](https://www.elproximopaso.net/2018/12/dor-kards.html) - T. Wallet, 2018
--	[Los derechos slow del equipo ágil](https://nicopaez.gitbook.io/libroagileaoc2017/slow) - Libro Ensayos Ágiles – Escritos, Reflexiones y Críticas sobre Agilidad. Hesidio, 2017
-- [DoD Kards: Cocreando la Definición de Terminado del Equipo](https://www.elproximopaso.net/2017/07/dod-kards.html) - T. Wallet, C. Velasquez, 2017
--	[San Saru: selección natural de equipos](https://nicopaez.gitbook.io/libroagileaoc2016/01_san_saru) - T. Wallet y T. Christie. Libro Herramientas Ágiles - Técnicas y Patrones para Equipos y Profesionales. Hesidio, 2016
--	[El próximo paso hacía el collective code ownership](https://nicopaez.gitbook.io/libroagileaoc2015/11-collective_ownership) - Libro Experiencias Ágiles – Relatos de Experiencias del Uso de Metodologías Ágiles en Argentina, 2015
--	[On-The-Fly Model-Based Testing of Web Services with Jambition](https://link.springer.com/chapter/10.1007/978-3-642-01364-5_9) - L. Frantzen, T. Wallet, M. Huerta y Z. Kiss - En Proceedings of Web Services and Formal Methods: 5th International Workshop, WS-FM 2008, Milano, Italia. Septiembre 2008
--	[Mobile Medical Diagnosis: an m-Health Initiative through Service Continuity in B3G](https://www.researchgate.net/publication/221461311_Mobile_medical_diagnosis_an_m-health_initiative_through_service_continuity_in_B3G) - L. Rong, T. Wallet, M. Fredj y N. Georgantas - Proceedings of the 2007 ACM/IFIP/USENIX international conference on Middleware companion. Middleware 2007, California, 2007
--	[Integrating an Explicit Knowledge Model into Geographic Information Systems](https://www.researchgate.net/publication/246487939_Integrating_an_Explicit_Knowledge_Model_into_Geographic_Information_Systems) - M. Casanova, T. Wallet y M. D’Hondt - En Proceedings of the Thirteenth International Conference on Software Engineering & Knowledge Engineering – SEKE’ 01, Buenos Aires, Argentina, 2001.
--	[Adaptations to OCL for Ensuring Quality of Geographic Data](https://dl.acm.org/doi/10.1145/367845.367942) - T. Wallet, M. Casanova y M. D’Hondt - En Companion of the ACM Conference on Object-Oriented Programming, Systems, Languages and Applications – OOPSLA 2000, Minneapolis, Minnesota. Pág. 69-70. ACM, 2000.
+- [DoR Kards: Cocreando la Definición de Listo del Equipo](https://www.elproximopaso.net/2018/12/dor-kards.html) 📅 2018  
+-	[Los derechos slow del equipo ágil](https://nicopaez.gitbook.io/libroagileaoc2017/slow) - Libro Ensayos Ágiles – Escritos, Reflexiones y Críticas sobre Agilidad. Hesidio 📅 2017  
+- [DoD Kards: Cocreando la Definición de Terminado del Equipo](https://www.elproximopaso.net/2017/07/dod-kards.html) - T. Wallet, C. Velasquez 📅 2017  
+-	[San Saru: selección natural de equipos](https://nicopaez.gitbook.io/libroagileaoc2016/01_san_saru) - T. Wallet y T. Christie. Libro Herramientas Ágiles - Técnicas y Patrones para Equipos y Profesionales. Hesidio 📅 2016  
+-	[El próximo paso hacía el collective code ownership](https://nicopaez.gitbook.io/libroagileaoc2015/11-collective_ownership) - Libro Experiencias Ágiles – Relatos de Experiencias del Uso de Metodologías Ágiles en Argentina 📅 2015  
+-	[On-The-Fly Model-Based Testing of Web Services with Jambition](https://link.springer.com/chapter/10.1007/978-3-642-01364-5_9) - L. Frantzen, T. Wallet, M. Huerta y Z. Kiss - En Proceedings of Web Services and Formal Methods: 5th International Workshop, WS-FM 2008, Milano, Italia 📅 2008  
+-	[Mobile Medical Diagnosis: an m-Health Initiative through Service Continuity in B3G](https://www.researchgate.net/publication/221461311_Mobile_medical_diagnosis_an_m-health_initiative_through_service_continuity_in_B3G) - L. Rong, T. Wallet, M. Fredj y N. Georgantas - Proceedings of the 2007 ACM/IFIP/USENIX international conference on Middleware companion. Middleware 2007, California 📅 2007  
+-	[Integrating an Explicit Knowledge Model into Geographic Information Systems](https://www.researchgate.net/publication/246487939_Integrating_an_Explicit_Knowledge_Model_into_Geographic_Information_Systems) - M. Casanova, T. Wallet y M. D’Hondt - En Proceedings of the Thirteenth International Conference on Software Engineering & Knowledge Engineering – SEKE’ 01, Buenos Aires, Argentina 📅 2001  
+-	[Adaptations to OCL for Ensuring Quality of Geographic Data](https://dl.acm.org/doi/10.1145/367845.367942) - T. Wallet, M. Casanova y M. D’Hondt - En Companion of the ACM Conference on Object-Oriented Programming, Systems, Languages and Applications – OOPSLA 2000, Minneapolis, Minnesota. Pág. 69-70. ACM 📅 2000  
 -	[Ensuring Quality of Geographic Data with OCL and UML](https://link.springer.com/chapter/10.1007/3-540-40011-7_16) - T. Wallet, M. Casanova y M. D’Hondt - En Proceedings of the 3rd International Conference on the Unified Modeling Language: Advancing the Standard – UML 2000, York, UK. Pág. 225-239. Springer, 2000.
