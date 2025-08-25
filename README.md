@@ -94,13 +94,9 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 - Apoyé en la implementación de prácticas ágiles en los proyectos y servicios de Pragma Consultores, facilitando la adopción de metodologías efectivas.
 - Brindé formaciones y coaching en prácticas ágiles a diversos clientes, fomentando una cultura de mejora continua y colaboración.
 
-#### Líder de Proyecto de CRM en Banca Minorista / Banco Galicia (Buenos Aires)  
-📅 Mar a Sep 2009  
-- Lideré los frentes funcionales y de sistemas en el desarrollo e implementación de una solución de _**CRM con SIEBEL**_ para la banca minorista, abarcando 400 sucursales.
-
 #### Líder de Mantenimiento de Aplicaciones / TecPetrol (Buenos Aires)  
 📅 Oct 2008 a Sep 2010  
-- Encabecé un equipo de 25 personas para el mantenimiento y la mejora continua de 6 aplicaciones críticas, utilizando tecnologías como _**ASP, .NET, QlikView y Oracle**_.
+- Encabecé un equipo de 25 personas para el mantenimiento y la mejora continua de 6 aplicaciones críticas, utilizando tecnologías como _**ASP, .NET, QlikView**_ y _**Oracle**_.
 - Implementé prácticas de _**Extreme Programming (XP)**_ bajo procesos _**CMMI Nivel 2**_, fortaleciendo la calidad del software y la eficiencia del equipo.
 
 #### Líder Proyecto de Investigación PLASTIC / European IST Research (Buenos Aires)  
