@@ -18,17 +18,17 @@ En mis 26 años de carrera pude desarrollarme en múltiples roles relacionados c
 
 ## 📂 Proyectos Destacados  
 🤖 [Bot Habitus](https://github.com/twallet/habitus)  
-Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periodicos.
+Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periódicos.
 - Stack: Google Apps Script (Orientado a Objetos), Telegram Bot API, Google Sheets API  
 - IA: GS Copilot
 
 🤖 [Bot Albums Of Communities](https://github.com/twallet/albumsofcommunitiesbot)  
-Bot de Telegram para la gestión grupal de albums de fotos: automatiza la subida y organización de fotos/videos recibidos en un grupo de Telegram a una carpeta de Google Drive.
+Bot de Telegram para la gestión grupal de albúms de fotos: automatiza la subida y organización de fotos/videos recibidos en un grupo de Telegram a una carpeta de Google Drive.
 - Stack: Google Apps Script, Telegram Bot API, Google Drive API, Google Sheets API  
 - IA: Jules y GS Copilot
 
 ⌚ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  
-Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y del monitoreo de avances de participantes compartido con clientes.
+Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y del monitoreo de avances de participantes compartido con clientes.
 - Stack: Google Apps Script, Zappier, Teachable API, Google Mail API
 
 ---
@@ -43,16 +43,16 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 
 ### Agile Coach / Kleer (Cipolletti, Rio Negro)  
 📅 Ene 2016 a Dic 2024
-- Trabajé con multiples empresas en Latinoamérica y Europa: Banco Galicia, KPMG, Telecom, Total, YPF en Argentina, Neoris, BBVA Next, Rollup Consulting en España, BBVA Continental en Perú, Falabella Finanzas en Chile, SmartRX, Caméon, Netia en Francia, David Systems en Alemania, entre otros.
+- Trabajé con múltiples empresas en Latinoamérica y Europa: Banco Galicia, KPMG, Telecom, Total, YPF en Argentina, Neoris, BBVA Next, Rollup Consulting en España, BBVA Continental en Perú, Falabella Finanzas en Chile, SmartRX, Caméon, Netia en Francia, David Systems en Alemania, entre otros.
 -	Di coaching ágil para la (re)-construcción de equipos, con _**Scrum, Kanban, Visual Management, Improvement Kata**_ y _**Frameworks de Escalado**_ para multinacionales en Latinoamérica.
 -	Di capacitaciones en _**Retrospectivas, Scrum, Kanban, Visual Management, Frameworks de Escalado**_ y _**Time Management**_ en Latinoamérica y Europa.
 - Facilité varios eventos _**Ágiles**_, _**Open Space**_, _**Team Building**_, _**Retiros**_ en comunidades y empresas. 
-- Co-desarrollé un programa de _Desarrollo de Liderazgo Ágil_ basado en _Reinventing Organizations,_ con su _Radar de Liderazgo_ (desarrollado en _**Google App Script**)_, capacitaciones y coaching ejecutivo, que tuvo cerca de 20 ediciones en NaranjaX, Laureate (Perú), Comercial Nutresa (Colombia) e YPF. 
+- Codesarrollé un programa de _Desarrollo de Liderazgo Ágil_ basado en _Reinventing Organizations,_ con su _Radar de Liderazgo_ (desarrollado en _**Google App Script**)_, capacitaciones y coaching ejecutivo, que tuvo cerca de 20 ediciones en NaranjaX, Laureate (Perú), Comercial Nutresa (Colombia) e YPF. 
 
-### Banco Provincia del Neuquen
+### Banco Provincia del Neuquén
 #### Responsable Productos Pasivos (Neuquén) 
 📅 Sep 2014 a Dic 2015
-- Diseñe y comercialicé nuevos productos y servicios para la bancarización y captación de fondos.
+- Diseñé y comercialicé nuevos productos y servicios para la bancarización y captación de fondos.
 - Implementé herramientas de _**Business Inteligence**_ para monitoreo, control e inteligencia de negocio.
 - Realicé benchmarkings y guardia normativa. 
 
@@ -60,11 +60,11 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 📅 Jul 2013 a Ago 2014
 - Implementamos una Oficina de Gestión de Proyectos (PMO) para los proyectos de negocio críticos del Banco. 
 - Diseñamos, capacitamos y dimos soporte en procesos de gestión de proyectos y de portafolio para todas/os las/los líderes del banco.
-- Co-lideré varios proyectos estratégicos: construcción de un edificio, migración del sistema core con _**Scrum**_, lanzamiento préstamos pre-acordados, selección de ERP, entre otros.
+- Colideré varios proyectos estratégicos: construcción de un edificio, migración del sistema core con _**Scrum**_, lanzamiento préstamos preacordados, selección de ERP, entre otros.
 
 ### Docente eLearnings Agile / UTN (Buenos Aires)
 📅 Apr 2011 a Dic 2020
-- Desarrollé y facilité los siguientes eLearnings, en los cuales participaron más de 2100 personas: Metodologías Ágiles para el Desarrollo de Software (28 ediciones), Scrum Grand Master (32 ediciones), Preparación a la Certificatión PMI-ACP (35 ediciones).
+- Desarrollé y facilité los siguientes eLearnings, en los cuales participaron más de 2100 personas: Metodologías Ágiles para el Desarrollo de Software (28 ediciones), Scrum Grand Master (32 ediciones), Preparación a la Certificación PMI-ACP (35 ediciones).
 
 ### Agile Coach y Speaker / El Próximo Paso (Cipolletti, Rio Negro)
 📅 Desde May 2010
@@ -109,38 +109,38 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 
 #### Líder Proyecto de Investigación PLASTIC / European IST Research (Buenos Aires)  
 📅 Feb 2006 a Sep 2008
-- Lideré la participación de Pragma Consultores al proyecto de investigación de la Comunidad Europea PLASTIC, cuyo objetivo principal era desarrollar una plataforma que habilite servicios livianos, distribuidos y robustos en ambientes de redes de telefonía _Beyond 3rd Generation._
+- Lideré la participación de Pragma Consultores al proyecto de investigación de la Comunidad Europea PLASTIC, cuyo objetivo principal era desarrollar una plataforma que habilité servicios livianos, distribuidos y robustos en ambientes de redes de telefonía _Beyond 3rd Generation._
 - Con 11 partner europeos, definimos un ambiente de desarrollo, un middleware y un framework de validación.
 - En Pragma Consultores desarrollamos un prototipo mobile de eSalud _(Pocket Doctor),_ mostrando los resultados innovadores del proyecto.
 
 #### Mejora de Procesos / Banco Galicia (Buenos Aires)  
 📅 Feb 2005 a Mar 2009
-- Diseñamos los procesos de Gestión de Proyectos para los distintos sectores de la Gerencia de Sistemas (350 personas), integrando estándares como _**CMMI, OPM3**_ y prácticas _**ágiles,**_.  
-- Lideré el Grupo de Mejora de Procesos, trabajando de manera participativa a través de workshops y coaching, para probar, implementar y mejorar los procesos para la gestión de proyectos y portfolios.
+- Diseñamos los procesos de Gestión de Proyectos para los distintos sectores de la Gerencia de Sistemas (350 personas), integrando estándares como _**CMMI, OPM3**_ y prácticas _**ágiles**_.  
+- Lideré el Grupo de Mejora de Procesos, trabajando de manera participativa a través de workshops y coaching, para probar, implementar y mejorar los procesos para la gestión de proyectos y portafolios.
 - Desarrollé herramientas propias en _**Microsoft Excel con macros**_ y _**Microsoft EPM**_.
 
 ### Laboratorio de Investigación y Formación en Informática Avanzada (LIFIA-UNLP)  
 #### Líder de Desarrollo / Movicom Bellsouth (Buenos Aires)  
 📅 Ene 2003 a Dic 2004  
 - Lideré un equipo de 10 desarrolladoras/es y QA en varios proyectos de desarrollo sobre un framework _**J2EE** (Movics3)._  
-- A cargo de la relación con el cliente y su gestión comercial, hicé crecer el equipo y aprendí a gestionar proyectos de desarrollo.  
+- A cargo de la relación con el cliente y su gestión comercial, hice crecer el equipo y aprendí a gestionar proyectos de desarrollo.  
 
 #### Responsable Área de Calidad y Procesos / LIFIA-UNLP (La Plata)  
 📅 Feb 2001 a Dic 2004  
-- Lideré el área a cargo de la definición y implementación de _**métodología de desarrollo de software,**_ en base a estándares internacionales como _**CMM**_ e _**IEEE**_).  
+- Lideré el área a cargo de la definición y implementación de _**metodología de desarrollo de software,**_ en base a estándares internacionales como _**CMM**_ e _**IEEE**_).  
 - Creamos el _FRAmework de Procesos Esenciales (FRAPE)_ para el desarrollo de software, aplicado y mejorado en más de 20 proyectos de desarrollo.  
   
 ### Investigador QA Automation / Tele Atlas Lab NV (Bélgica)  
 📅 Oct 1999 a Feb 2001
 - Proyecto de investigación del _System and Software Engineering Laboratory_ de la _Vrije Universiteit Brussel_ para garantizar la calidad de datos geográficos _(GIS)._
 - Diseño de un lenguaje de reglas de negocios sobre datos geográficos basado en _**OCL** (Object Constraint Language)._
-- Desarrollo en _**Visual Basic**_ de parser y compilador, y generación del código para chequeo automatico sobre grandes bases de datos.
+- Desarrollo en _**Visual Basic**_ de parser y compilador, y generación del código para chequeo automático sobre grandes bases de datos.
   
 ### Desarrollador / Dataprev (Brasil)  
 📅 Mar a Ago 1999  
-- Desarrollé de una interface web dinámica para acelerar el acceso a datos estatales de Seguridad Social.
-- Implementé un parser y compilador en _**Java**_ para generación de queries _**SQL**_ dínamicos.
-- Validé mi tesis de master aplicando resultados de investigación en _**Programación Orientada a Aspectos**._
+- Desarrollé de una interfaz web dinámica para acelerar el acceso a datos estatales de Seguridad Social.
+- Implementé un parser y compilador en _**Java**_ para generación de queries _**SQL**_ dinámicos.
+- Validé mi tesis de máster aplicando resultados de investigación en _**Programación Orientada a Aspectos**._
 
 ---
 
@@ -166,23 +166,23 @@ Automatización del diagnostico inicial del [Programa Mejores Tiempos](https://n
 
 ## 🌐 Idiomas
 - Francés: nativo
-- Español: bilingue  
+- Español: bilingüe  
 - Inglés: profesional
 
 ---
 ## 🕯️Comunidades y Eventos
 
-- [Agile Open Camp](https://agileopen.camp) - Co-fundador y organizador: Co-fundé con T. Christie y M. Strione el evento Agile Open Camp (AOC). Se hicieron 15 ediciones del evento en 5 países (+ online durante la pandemia). Co-organicé los AOC Bariloche 2015 y 2016, AOC Chile 2017 y 2018, AOC España 2019 y AOC en tu casa 2020.
-- Fundador: [Comunidad de Facilitadores/as de la Confluencia](https://www.elproximopaso.net/2018/12/facilitadores-confluencia.html) (2018 a 2020), Comunidad Ágiles Alto Valle: cápitulo regional de [Ágiles Argentina](https://www.meetup.com/es-ES/agiles-arg) (2015 a 2017), [Comunidad Ágil de Neuquén](https://www.elproximopaso.net/2012/03/primera-reunion-de-la-comunidad-agil-de.html) (2012), Comunidad Ágil interna de [Pragma Consultores](https://practia.global) (2009 a 2013).
-- Speaker: en eventos de Argentina, Bolivia, Chile, Ecuador, España, Francia, Perú, Uruguay, Venezuela y online, con keynotes y talleres sobre temas de agilidad (retrospectivas, no estimates, Scrum, Kanban, priorización, visual management, liderazgo ágil), gestión del tiempo (Slow, Pomodoro, silencio), facilitación (auto-facilitación, facilitación remota) y diversidad, entre otros.
+- [Agile Open Camp](https://agileopen.camp) - Cofundador y organizador: Cofundé con T. Christie y M. Strione el evento Agile Open Camp (AOC). Se hicieron 15 ediciones del evento en 5 países (+ online durante la pandemia). Coorganicé los AOC Bariloche 2015 y 2016, AOC Chile 2017 y 2018, AOC España 2019 y AOC en tu casa 2020.
+- Fundador: [Comunidad de Facilitadores/as de la Confluencia](https://www.elproximopaso.net/2018/12/facilitadores-confluencia.html) (2018 a 2020), Comunidad Ágiles Alto Valle: capítulo regional de [Ágiles Argentina](https://www.meetup.com/es-ES/agiles-arg) (2015 a 2017), [Comunidad Ágil de Neuquén](https://www.elproximopaso.net/2012/03/primera-reunion-de-la-comunidad-agil-de.html) (2012), Comunidad Ágil interna de [Pragma Consultores](https://practia.global) (2009 a 2013).
+- Speaker: en eventos de Argentina, Bolivia, Chile, Ecuador, España, Francia, Perú, Uruguay, Venezuela y online, con keynotes y talleres sobre temas de agilidad (retrospectivas, no estimates, Scrum, Kanban, priorización, visual management, liderazgo ágil), gestión del tiempo (Slow, Pomodoro, silencio), facilitación (auto facilitación, facilitación remota) y diversidad, entre otros.
 
 ## 📚 Publicaciones y Traducciones
 
 - [Planes para Retrospectivas Ágiles: Retrospectivas ágiles efectivas desde el inicio](https://leanpub.com/planes-para-retrospectivas-agiles) - Traducción - C. Baldauf, T. Wallet - Leanpub, 2021
-- [DoR Kards: Co-creando la Definición de Listo del Equipo](https://www.elproximopaso.net/2018/12/dor-kards.html) - T. Wallet, 2018
+- [DoR Kards: Cocreando la Definición de Listo del Equipo](https://www.elproximopaso.net/2018/12/dor-kards.html) - T. Wallet, 2018
 - [96 Ejemplos de Visualización: como los buenos equipos visualizan su trabajo](https://leanpub.com/ejemplosdevisualizacin) - Traducción - J. Janlen, T.Wallet - Leanpub, 2018
 -	[Los derechos slow del equipo ágil](https://nicopaez.gitbook.io/libroagileaoc2017/slow) - N. Paez, J. Gabardini, T. Wallet & varios - Libro Ensayos Agiles – Escritos, Reflexiones y Críticas sobre Agilidad. Hesidio, 2017
-- [DoD Kards: Co-creando la Definición de Terminado del Equipo](https://www.elproximopaso.net/2017/07/dod-kards.html) - T. Wallet, C. Velasquez, 2017
+- [DoD Kards: Cocreando la Definición de Terminado del Equipo](https://www.elproximopaso.net/2017/07/dod-kards.html) - T. Wallet, C. Velasquez, 2017
 -	[San Saru: selección natural de equipos](https://nicopaez.gitbook.io/libroagileaoc2016/01_san_saru) - N. Paez, H. Hiromoto, T. Wallet & varios. Libro Herramientas Agiles - Técnicas y Patrones para Equipos y Profesionales. Hesidio, 2016
 -	[El próximo paso hacía el collective code ownership](https://nicopaez.gitbook.io/libroagileaoc2015/11-collective_ownership) - N. Paez, A. Cyment, T. Wallet & varios - Libro Experiencias Agiles – Relatos de Experiencias del Uso de Metodologías Agiles en Argentina, 2015
 - [Retromat](https://retromat.org/es) - Traducción - C. Baldauf, T. Wallet, P. Serrano - 2014
