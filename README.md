@@ -128,25 +128,25 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 ### Laboratorio de Investigación y Formación en Informática Avanzada (LIFIA-UNLP)  
 #### Líder de Desarrollo / Movicom Bellsouth (Buenos Aires)  
 📅 Ene 2003 a Dic 2004  
-- Lideré un equipo de 10 desarrolladoras/es y QA en varios proyectos de desarrollo sobre un framework _**J2EE** (Movics3)._  
-- A cargo de la relación con el cliente y su gestión comercial, hice crecer el equipo y aprendí a gestionar proyectos de desarrollo.  
+- Dirigí un equipo de 10 desarrolladoras/es y QA en diversos proyectos basados en un framework _**J2EE (Movics3)**_, impulsando el desarrollo de soluciones escalables y robustas.
+- Gestione la relación con el cliente y la gestión comercial, promoviendo el crecimiento del equipo y aprendiendo a administrar proyectos de desarrollo de manera eficiente.
 
-#### Responsable Área de Calidad y Procesos / LIFIA-UNLP (La Plata)  
+#### Responsable de Calidad y Procesos / LIFIA-UNLP (La Plata)  
 📅 Feb 2001 a Dic 2004  
-- Lideré el área a cargo de la definición e implementación de _**metodología de desarrollo de software,**_ en base a estándares internacionales como _**CMM**_ e _**IEEE**_).  
-- Creamos el _FRAmework de Procesos Esenciales (FRAPE)_ para el desarrollo de software, aplicado y mejorado en más de 20 proyectos de desarrollo.  
+- Lideré el área encargada de definir e implementar una _**metodología de desarrollo de software,**_ basada en estándares internacionales como _**CMM**_ y _**IEEE**_, logrando mayor madurez en procesos.
+- Creé y consolidé el _**FRAmework de Procesos Esenciales (FRAPE)**_ para proyectos de desarrollo, aplicándolo y mejorándolo en más de 20 iniciativas, mejorando la calidad y coherencia de los entregables.
   
 ### Investigador QA Automation / Tele Atlas Lab NV (Bélgica)  
 📅 Oct 1999 a Feb 2001
-- Proyecto de investigación del _System and Software Engineering Laboratory_ de la _Vrije Universiteit Brussel_ para garantizar la calidad de datos geográficos _(GIS)._
-- Diseño de un lenguaje de reglas de negocios sobre datos geográficos basado en _**OCL** (Object Constraint Language)._
-- Desarrollo en _**Visual Basic**_ de parser y compilador, y generación del código para chequeo automático sobre grandes bases de datos.
+- Formé parte del _System and Software Engineering Laboratory_ de la _Vrije Universiteit Brussel_, en un proyecto de investigación aplicada para mejorar la calidad de datos geográficos (_GIS_).
+- Co-diseñé un lenguaje de reglas de negocio para datos geográficos, basado en _**OCL (Object Constraint Language)**_, facilitando validaciones automatizadas.
+- Co-desarrollé en _**Visual Basic**_ un parser y compilador para la generación automática de código de chequeo, permitiendo validaciones eficientes en grandes bases de datos.
   
 ### Desarrollador / Dataprev (Brasil)  
 📅 Mar a Ago 1999  
-- Desarrollé una interfaz web dinámica para acelerar el acceso a datos estatales de Seguridad Social.
-- Implementé un parser y compilador en _**Java**_ para generación de queries _**SQL**_ dinámicos.
-- Validé mi tesis de máster aplicando resultados de investigación en _**Programación Orientada a Aspectos**._
+- Creé una interfaz web dinámica para agilizar el acceso y consulta de datos de Seguridad Social, mejorando la eficiencia y accesibilidad.
+- Implementé un parser y compilador en _**Java**_ para generar _**queries SQL**_ dinámicamente, optimizando procesos de consulta.
+- Validé mi tesis de máster, aplicando principios de _**Programación Orientada a Aspectos**_, integrando investigación académica en esta solución práctica.
 
 ---
 
