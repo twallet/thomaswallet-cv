@@ -7,17 +7,17 @@
 ---
 
 ## ♻️ Perfil
-En mis 26 años de carrera pude desarrollarme en múltiples roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. En los últimos años me volví a enamorar con la programación, mi formación inicial. Me apasiona cada vez más, y hoy quiero reconvertirme en desarrollador. Si bien estoy desactualizado técnicamente, aprendo rápidamente, y creo que puedo aportar mi experiencia en distintos aspectos relacionados al desarrollo como la relación con clientes o las prácticas (técnicas) ágiles.
+En mis 26 años de carrera pude desarrollarme en múltiples roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. En los últimos años me volví a enamorar con la programación, mi formación inicial. Me apasiona cada vez más, y hoy quiero reconvertirme en desarrollador (fullstack). Si bien estoy desactualizado técnicamente, aprendo rápidamente, y creo que puedo aportar mi experiencia en distintos aspectos relacionados al desarrollo como la relación con clientes o las prácticas (técnicas) ágiles.
 
 ---
-## ⚒️ Habilidades Técnicas
-- Google App Script / Javascript
+## ⚒️ Competencias Técnicas
+- Google App Script
 - Telegram Bots
 - Zappier
 - IA: Jules, GAS Copilot
 
 ## 📂 Proyectos Destacados  
-🤖 [Bot Habitus](https://github.com/twallet/habitus)  ACTUALIZAR!
+🤖 [Bot Habitus](https://github.com/twallet/habitus)    ACTUALIZAR!
 Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periódicos.
 - Stack: Google Apps Script (Orientado a Objetos), Telegram Bot API, Google Sheets API  
 - IA: GS Copilot
