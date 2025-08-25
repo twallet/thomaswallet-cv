@@ -88,26 +88,26 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 #### Líder de Desarrollo / Movistar (Buenos Aires)  
 📅 Abr a Sep 2010  
-- Lideré el desarrollo de varias aplicaciones con _**Java, Flex**_ y _**Cobol**._
+- Lideré el desarrollo de varias aplicaciones utilizando tecnologías como _**Java**_, _**Flex**_ y _**Cobol**_, contribuyendo a la modernización y mejora de procesos internos.
 
 #### Coach Agile / Pragma Consultores (Buenos Aires y Neuquén)  
 📅 Abr 2009 a Mar 2013  
-- Inicié y desarrollé la _Comunidad Agile_ de la empresa, para la capacitación en prácticas ágiles _**(XP, Scrum, Kanban)**_ de las/los consultoras/es.
-- Ayudé a aplicar prácticas ágiles en los servicios de Pragma Consultores.
-- Di servicios de capacitación y coaching en prácticas ágiles para distintos clientes.
+- Inicié y lideré la _Comunidad Ágil_, promoviendo la capacitación en prácticas ágiles como _**XP, Scrum y Kanban**_ entre consultoras y consultores.
+- Apoyé en la implementación de prácticas ágiles en los proyectos y servicios de Pragma Consultores, facilitando la adopción de metodologías efectivas.
+- Brindé formaciones y coaching en prácticas ágiles a diversos clientes, fomentando una cultura de mejora continua y colaboración.
 
 #### Líder de Proyecto de CRM en Banca Minorista / Banco Galicia (Buenos Aires)  
 📅 Mar a Sep 2009  
-- Lideré los frentes funcionales y de sistemas del desarrollo sobre _**SIEBEL**_ de una solución de CRM en banca minorista a implementar en 400 sucursales.
+- Lideré los frentes funcionales y de sistemas en el desarrollo e implementación de una solución de _**CRM con SIEBEL**_ para la banca minorista, abarcando 400 sucursales.
 
 #### Líder de Mantenimiento de Aplicaciones / TecPetrol (Buenos Aires)  
 📅 Oct 2008 a Sep 2010  
-- Lideré un equipo de 25 personas para el mantenimiento de 6 aplicaciones, con tecnología _**ASP, .Net, Qlikview, Oracle.**_  
-- Implementé prácticas de _**Extreme Programming**_ con procesos _**CMMI**_ nivel 2.  
+- Encabecé un equipo de 25 personas para el mantenimiento y la mejora continua de 6 aplicaciones críticas, utilizando tecnologías como _**ASP, .NET, QlikView y Oracle**_.
+- Implementé prácticas de _**Extreme Programming (XP)**_ bajo procesos _**CMMI Nivel 2**_, fortaleciendo la calidad del software y la eficiencia del equipo.
 
 #### Desarrollador y QA / Volvo IT Francia (Buenos Aires)  
 📅 Ago 2008  
-- Participé de una prueba de concepto de un catálogo de los proyectos de TI del grupo Volvo con _**Javascript**_ sobre _**Microsoft EPM**_.
+- Participé en una prueba de concepto para un catálogo de proyectos de TI del grupo Volvo, utilizando _**JavaScript**_ sobre _**Microsoft EPM**_, contribuyendo a la evaluación de nuevas tecnologías para proyectos futuros.
 
 #### Líder Proyecto de Investigación PLASTIC / European IST Research (Buenos Aires)  
 📅 Feb 2006 a Sep 2008
@@ -115,11 +115,15 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 - Con 11 partner europeos, definimos un ambiente de desarrollo, un middleware y un framework de validación.
 - En Pragma Consultores desarrollamos un prototipo mobile de eSalud _(Pocket Doctor),_ mostrando los resultados innovadores del proyecto.
 
+- Lideré la participación de Pragma Consultores en el proyecto de investigación _**PLASTIC**_ de la Comunidad Europea, destinado a desarrollar una plataforma de servicios livianos, distribuidos y robustos en entornos de redes _Beyond 3rd Generation_.
+- En colaboración con 11 socios europeos, definimos un entorno de desarrollo, un middleware y un framework de validación, impulsando la innovación en comunicaciones y servicios móviles.
+- En Pragma Consultores desarrollamos un prototipo móvil de eSalud, llamado _(Pocket Doctor)_, demostrando los resultados y avances tecnológicos del proyecto (premiado en el Concurso Nacional de Innovaciones INNOVAR 2008).
+
 #### Mejora de Procesos / Banco Galicia (Buenos Aires)  
 📅 Feb 2005 a Mar 2009
-- Diseñamos los procesos de Gestión de Proyectos para los distintos sectores de la Gerencia de Sistemas (350 personas), integrando estándares como _**CMMI, OPM3**_ y prácticas _**ágiles**_.  
-- Lideré el Grupo de Mejora de Procesos, trabajando de manera participativa a través de workshops y coaching, para probar, implementar y mejorar los procesos para la gestión de proyectos y portafolios.
-- Desarrollé herramientas propias en _**Microsoft Excel con macros**_ y _**Microsoft EPM**_.
+- Co-diseñé e implementé los procesos de Gestión de Proyectos para los diferentes sectores de la Gerencia de Sistemas (350 personas), integrando estándares como _**CMMI, OPM3**_ y prácticas _**ágiles**_ para optimizar la gestión y ejecución de proyectos.
+- Lideré el Grupo de Mejora de Procesos, promoviendo un enfoque participativo mediante workshops y coaching, logrando la estandarización, mejora continua y mayor madurez en la gestión de proyectos y portafolios.
+- Desarrollé herramientas personalizadas en _**Microsoft Excel con macros**_ y _**Microsoft EPM**_, facilitando el monitoreo, planificación y control de proyectos en todos los equipos de Sistemas.
 
 ### Laboratorio de Investigación y Formación en Informática Avanzada (LIFIA-UNLP)  
 #### Líder de Desarrollo / Movicom Bellsouth (Buenos Aires)  
