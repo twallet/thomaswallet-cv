@@ -165,10 +165,10 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
   - Co-fundé el evento Agile Open Camp (AOC), con 15 ediciones en 5 países, incluyendo versiones online durante la pandemia.  
   - Co-organicé las ediciones del AOC en Bariloche (2015 y 2016), Chile (2017 y 2018), España (2019), y _AOC en tu casa_ (2020).
 
-- Fundador de comunidades:  
-  - [Comunidad de Facilitadores/as de la Confluencia](https://www.elproximopaso.net/2018/12/facilitadores-confluencia.html) (2018-2020)  
-  - Comunidad Ágiles Alto Valle, capítulo regional de [Ágiles Argentina](https://www.meetup.com/es-ES/agiles-arg) (2015-2017)  
-  - [Comunidad Ágil de Neuquén](https://www.elproximopaso.net/2012/03/primera-reunion-de-la-comunidad-agil-de.html) (2012)  
+- Comunidades  
+  - Co-fundé la [Comunidad de Facilitadores/as de la Confluencia](https://www.elproximopaso.net/2018/12/facilitadores-confluencia.html) (2018-2020)  
+  - Fundé la Comunidad Ágiles Alto Valle, capítulo regional de [Ágiles Argentina](https://www.meetup.com/es-ES/agiles-arg) (2015-2017)  
+  - Fundé la [Comunidad Ágil de Neuquén](https://www.elproximopaso.net/2012/03/primera-reunion-de-la-comunidad-agil-de.html) (2012)  
     
 - Speaker en eventos de Argentina, Bolivia, Chile, Ecuador, Perú, Uruguay, Venezuela, Francia, España y en eventos en línea, dictando keynotes y talleres sobre temáticas de:  
   - **Agilidad:** Retrospectivas, No Estimates, Scrum, Kanban, Priorización, Visual Management, Liderazgo Ágil  
