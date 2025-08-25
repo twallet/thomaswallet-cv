@@ -119,7 +119,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 - Lideré el Grupo de Mejora de Procesos, promoviendo un enfoque participativo mediante workshops y coaching, logrando la estandarización, mejora continua y mayor madurez en la gestión de proyectos y portafolios.
 - Desarrollé herramientas personalizadas en _**Microsoft Excel con macros**_ y _**Microsoft EPM**_, facilitando el monitoreo, planificación y control de proyectos en todos los equipos de Sistemas.
 
-### Laboratorio de Investigación y Formación en Informática Avanzada (LIFIA-UNLP)  
+### Laboratorio de Investigación y Formación en Informática Avanzada / Transferencia a la industría (LIFIA-UNLP)  
 #### Líder de Desarrollo / Movicom Bellsouth (Buenos Aires)  
 📅 Ene 2003 a Dic 2004  
 - Dirigí un equipo de 10 desarrolladoras/es y QA en diversos proyectos basados en un framework _**J2EE (Movics3)**_, impulsando el desarrollo de soluciones escalables y robustas.
