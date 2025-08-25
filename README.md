@@ -120,7 +120,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 #### Responsable de Calidad y Procesos / LIFIA-UNLP (La Plata)  
 📅 Feb 2001 a Dic 2004  
 - Lideré el área encargada de definir e implementar una _**metodología de desarrollo de software,**_ basada en estándares internacionales como _**CMM**_ y _**IEEE**_, logrando mayor madurez en procesos.
-- Creé y consolidé el _**FRAmework de Procesos Esenciales (FRAPE)**_ para proyectos de desarrollo, aplicándolo y mejorándolo en más de 20 iniciativas, mejorando la calidad y coherencia de los entregables.
+- Creé y consolidé el _**FRAmework de Procesos Esenciales (FRAPE)**_ para proyectos de desarrollo, aplicándolo y mejorándolo en más de 20 proyectos, mejorando la calidad y coherencia de los entregables.
   
 ### Investigador QA Automation / Tele Atlas Lab NV (Bélgica)  
 📅 Oct 1999 a Feb 2001
