@@ -169,7 +169,6 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
   - [Comunidad de Facilitadores/as de la Confluencia](https://www.elproximopaso.net/2018/12/facilitadores-confluencia.html) (2018-2020)  
   - Comunidad Ágiles Alto Valle, capítulo regional de [Ágiles Argentina](https://www.meetup.com/es-ES/agiles-arg) (2015-2017)  
   - [Comunidad Ágil de Neuquén](https://www.elproximopaso.net/2012/03/primera-reunion-de-la-comunidad-agil-de.html) (2012)  
-  - Comunidad Ágil interna de [Pragma Consultores](https://practia.global) (2009-2013)
     
 - Speaker en eventos de Argentina, Bolivia, Chile, Ecuador, Perú, Uruguay, Venezuela, Francia, España y en eventos en línea, dictando keynotes y talleres sobre temáticas de:  
   - **Agilidad:** Retrospectivas, No Estimates, Scrum, Kanban, Priorización, Visual Management, Liderazgo Ágil  
