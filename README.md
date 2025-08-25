@@ -41,7 +41,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 ### Fundador y Time Maker / Next Steps Lab (Cipolletti, Rio Negro)
 📅 Desde Sep 2023  
-- Ofrezco cursos online de Gestión del Tiempo, Productividad y Slow para personas y empresas, con más de 2.600 personas.
+- Ofrezco cursos online de Gestión del Tiempo, Productividad y Slow para personas y empresas, con más de 2.600 participantes.
 - Desarrollé una plataforma de eLearning en _**Teachable**_ con automatizaciones en _**Zappier**_ y _**Google App Script**_.
 - Acompaño personas, equipos y empresas en la mejora de gestión del tiempo, ritmos y reuniones efectivas.
 
