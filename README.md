@@ -63,7 +63,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 - Colideré varios proyectos estratégicos: construcción de un edificio, migración del sistema core con _**Scrum**_, lanzamiento préstamos preacordados, selección de ERP, entre otros.
 
 ### Docente eLearnings Agile / UTN (Buenos Aires)
-📅 Apr 2011 a Dic 2020
+📅 Abr 2011 a Dic 2020
 - Desarrollé y facilité los siguientes eLearnings, en los cuales participaron más de 2100 personas: Metodologías Ágiles para el Desarrollo de Software (28 ediciones), Scrum Grand Master (32 ediciones), Preparación a la Certificación PMI-ACP (35 ediciones).
 
 ### Agile Coach y Speaker / El Próximo Paso (Cipolletti, Rio Negro)
