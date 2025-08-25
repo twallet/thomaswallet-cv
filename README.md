@@ -119,7 +119,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 - Lideré el Grupo de Mejora de Procesos, promoviendo un enfoque participativo mediante workshops y coaching, logrando la estandarización, mejora continua y mayor madurez en la gestión de proyectos y portafolios.
 - Desarrollé herramientas personalizadas en _**Microsoft Excel con macros**_ y _**Microsoft EPM**_, facilitando el monitoreo, planificación y control de proyectos en todos los equipos de Sistemas.
 
-### Laboratorio de Investigación y Formación en Informática Avanzada / Transferencia a la industría (LIFIA-UNLP)  
+### Laboratorio de Investigación y Formación en Informática Avanzada / Área de Transferencia a la Industría (LIFIA-UNLP)  
 #### Líder de Desarrollo / Movicom Bellsouth (Buenos Aires)  
 📅 Ene 2003 a Dic 2004  
 - Dirigí un equipo de 10 desarrolladoras/es y QA en diversos proyectos basados en un framework _**J2EE (Movics3)**_, impulsando el desarrollo de soluciones escalables y robustas.
@@ -144,23 +144,20 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 ---
 
-## 🎓 Formación
+## 🎓 Formación Académica
+
+- European Master in Object Oriented Software Engineering (EMOOSE) / [Vrije Universiteit Brussels](https://www.vub.be/en), Bélgica, 1998-1999
+- Ingeniero Industrial con Especialización en Ingeniería de Software / [École des Mines de Nantes / Institut Mines-Télécom](https://www.imt-atlantique.fr/en), Francia, 1995-1999
+
+### Algunas Capacitaciones  
 
 - Facilitar un Círculo de Hombres / [Colmena Comunicación No Violenta](https://www.instagram.com/colmenaenlinea/?hl=es), 2022
 - Professional Agile Coach (PAC) / [Kleer](https://www.kleer.la/es), 2018
-- Facilitación Gráfica / [Kleer](https://www.kleer.la/es), 2017
 - Art Of Hosting / [Conversaciones para Todos](https://www.linkedin.com/company/conversaciones-para-todos), 2016
 - Certified Scrum Practitionner (CSP) / [Scrum Alliance](https://www.scrumalliance.org), 2010
 - Certified Scrum Master (CSM) / [Scrum Alliance](https://www.scrumalliance.org), 2009
-- People CMM / [Liveware](https://liveware.com.ar), 2007
 - Certified Software Quality Engineer (CSQE) / [American Society for Quality](https://asq.org), 2006
 -	Programa de Liderazgo Eficaz / [Interludios](https://www.interludiosgroup.com.ar), 2006
--	Gestión de Equipos / [Whalecom](https://www.whalecom.com.ar), 2005
-- Estimaciones de Proyectos de Software / [Liveware](https://liveware.com.ar), 2004
-- Planificación  y Control de Proyectos / [Liveware](https://liveware.com.ar), 2003
-- Software Project Planning and Tracking / [Teraquest Metrics](https://www.terraquest.co.uk), 2001
-- European Master in Object Oriented Software Engineering (EMOOSE) / [Vrije Universiteit Brussels](https://www.vub.be/en), Bélgica, 1998-1999
-- Ingeniero Industrial con Especialización en Ingeniería de Software / [École des Mines de Nantes / Institut Mines-Télécom](https://www.imt-atlantique.fr/en), Francia, 1995-1999
 
 ---
 
@@ -182,8 +179,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
   - [Comunidad Ágil de Neuquén](https://www.elproximopaso.net/2012/03/primera-reunion-de-la-comunidad-agil-de.html) (2012)  
   - Comunidad Ágil interna de [Pragma Consultores](https://practia.global) (2009-2013)
     
-- Speaker en eventos nacionales e internacionales:  
-  He participado como orador en Argentina, Bolivia, Chile, Ecuador, Perú, Uruguay, Venezuela, Francia, España y en eventos en línea, dictando keynotes y talleres sobre temáticas de:  
+- Speaker en eventos de Argentina, Bolivia, Chile, Ecuador, Perú, Uruguay, Venezuela, Francia, España y en eventos en línea, dictando keynotes y talleres sobre temáticas de:  
   - **Agilidad:** Retrospectivas, No Estimates, Scrum, Kanban, Priorización, Visual Management, Liderazgo Ágil  
   - **Gestión del tiempo:** Slow, Pomodoro, Silencio
   - **Facilitación:** Auto facilitación, Facilitación remota  
@@ -195,10 +191,10 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 - [Planes para Retrospectivas Ágiles: Retrospectivas ágiles efectivas desde el inicio](https://leanpub.com/planes-para-retrospectivas-agiles) - Traducción - C. Baldauf, T. Wallet - Leanpub, 2021
 - [DoR Kards: Cocreando la Definición de Listo del Equipo](https://www.elproximopaso.net/2018/12/dor-kards.html) - T. Wallet, 2018
 - [96 Ejemplos de Visualización: como los buenos equipos visualizan su trabajo](https://leanpub.com/ejemplosdevisualizacin) - Traducción - J. Janlen, T.Wallet - Leanpub, 2018
--	[Los derechos slow del equipo ágil](https://nicopaez.gitbook.io/libroagileaoc2017/slow) - N. Paez, J. Gabardini, T. Wallet & varios - Libro Ensayos Ágiles – Escritos, Reflexiones y Críticas sobre Agilidad. Hesidio, 2017
+-	[Los derechos slow del equipo ágil](https://nicopaez.gitbook.io/libroagileaoc2017/slow) - Libro Ensayos Ágiles – Escritos, Reflexiones y Críticas sobre Agilidad. Hesidio, 2017
 - [DoD Kards: Cocreando la Definición de Terminado del Equipo](https://www.elproximopaso.net/2017/07/dod-kards.html) - T. Wallet, C. Velasquez, 2017
--	[San Saru: selección natural de equipos](https://nicopaez.gitbook.io/libroagileaoc2016/01_san_saru) - N. Paez, H. Hiromoto, T. Wallet & varios. Libro Herramientas Ágiles - Técnicas y Patrones para Equipos y Profesionales. Hesidio, 2016
--	[El próximo paso hacía el collective code ownership](https://nicopaez.gitbook.io/libroagileaoc2015/11-collective_ownership) - N. Paez, A. Cyment, T. Wallet & varios - Libro Experiencias Ágiles – Relatos de Experiencias del Uso de Metodologías Ágiles en Argentina, 2015
+-	[San Saru: selección natural de equipos](https://nicopaez.gitbook.io/libroagileaoc2016/01_san_saru) - T. Wallet y T. Christie. Libro Herramientas Ágiles - Técnicas y Patrones para Equipos y Profesionales. Hesidio, 2016
+-	[El próximo paso hacía el collective code ownership](https://nicopaez.gitbook.io/libroagileaoc2015/11-collective_ownership) - Libro Experiencias Ágiles – Relatos de Experiencias del Uso de Metodologías Ágiles en Argentina, 2015
 - [Retromat](https://retromat.org/es) - Traducción - C. Baldauf, T. Wallet, P. Serrano - 2014
 - [Business Value Game](https://www.agilebelgium.be/businessvaluegame) - Traducción - V. Peeters, P. Van Cauwenberghe, T. Wallet, L. Antolí, J.G. Plaza - 2010
 -	[On-The-Fly Model-Based Testing of Web Services with Jambition](https://link.springer.com/chapter/10.1007/978-3-642-01364-5_9) - L. Frantzen, T. Wallet, M. Huerta y Z. Kiss - En Proceedings of Web Services and Formal Methods: 5th International Workshop, WS-FM 2008, Milano, Italia. Septiembre 2008
