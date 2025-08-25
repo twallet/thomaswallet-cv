@@ -60,7 +60,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 📅 Jul 2013 a Ago 2014
 - Implementamos una Oficina de Gestión de Proyectos (PMO) para los proyectos de negocio críticos del Banco. 
 - Diseñamos, capacitamos y dimos soporte en procesos de gestión de proyectos y de portafolio para todas/os las/los líderes del banco.
-- Colideré varios proyectos estratégicos: construcción de un edificio, migración del sistema core con _**Scrum**_, lanzamiento préstamos preacordados, selección de ERP, entre otros.
+- Colideré varios proyectos estratégicos: construcción de un edificio, migración del sistema core con _**Scrum**_, lanzamiento de préstamos preacordados, selección de ERP, entre otros.
 
 ### Docente eLearnings Agile / UTN (Buenos Aires)
 📅 Abr 2011 a Dic 2020
@@ -90,9 +90,9 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 #### Coach Agile / Pragma Consultores (Buenos Aires y Neuquén)  
 📅 Abr 2009 a Mar 2013  
-- Inicié y desarrollé la _Comunidad Agile_ de la empresa, para la capacitación en prácticas agiles _**(XP, Scrum, Kanban)**_ de las/los consultoras/es.
+- Inicié y desarrollé la _Comunidad Agile_ de la empresa, para la capacitación en prácticas ágiles _**(XP, Scrum, Kanban)**_ de las/los consultoras/es.
 - Ayudé a aplicar prácticas ágiles en los servicios de Pragma Consultores.
-- Di servicios de capacitación y coaching en prácticas agiles para distintos clientes.
+- Di servicios de capacitación y coaching en prácticas ágiles para distintos clientes.
 
 #### Líder de Proyecto de CRM en Banca Minorista / Banco Galicia (Buenos Aires)  
 📅 Mar a Sep 2009  
@@ -105,7 +105,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 #### Desarrollador y QA / Volvo IT Francia (Buenos Aires)  
 📅 Ago 2008  
-- Participé de una prueba de concepto de un catalogo de los proyectos de TI del grupo Volvo con _**Javascript**_ sobre _**Microsoft EPM**_.
+- Participé de una prueba de concepto de un catálogo de los proyectos de TI del grupo Volvo con _**Javascript**_ sobre _**Microsoft EPM**_.
 
 #### Líder Proyecto de Investigación PLASTIC / European IST Research (Buenos Aires)  
 📅 Feb 2006 a Sep 2008
@@ -127,7 +127,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 #### Responsable Área de Calidad y Procesos / LIFIA-UNLP (La Plata)  
 📅 Feb 2001 a Dic 2004  
-- Lideré el área a cargo de la definición y implementación de _**metodología de desarrollo de software,**_ en base a estándares internacionales como _**CMM**_ e _**IEEE**_).  
+- Lideré el área a cargo de la definición e implementación de _**metodología de desarrollo de software,**_ en base a estándares internacionales como _**CMM**_ e _**IEEE**_).  
 - Creamos el _FRAmework de Procesos Esenciales (FRAPE)_ para el desarrollo de software, aplicado y mejorado en más de 20 proyectos de desarrollo.  
   
 ### Investigador QA Automation / Tele Atlas Lab NV (Bélgica)  
@@ -138,7 +138,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
   
 ### Desarrollador / Dataprev (Brasil)  
 📅 Mar a Ago 1999  
-- Desarrollé de una interfaz web dinámica para acelerar el acceso a datos estatales de Seguridad Social.
+- Desarrollé una interfaz web dinámica para acelerar el acceso a datos estatales de Seguridad Social.
 - Implementé un parser y compilador en _**Java**_ para generación de queries _**SQL**_ dinámicos.
 - Validé mi tesis de máster aplicando resultados de investigación en _**Programación Orientada a Aspectos**._
 
@@ -181,10 +181,10 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 - [Planes para Retrospectivas Ágiles: Retrospectivas ágiles efectivas desde el inicio](https://leanpub.com/planes-para-retrospectivas-agiles) - Traducción - C. Baldauf, T. Wallet - Leanpub, 2021
 - [DoR Kards: Cocreando la Definición de Listo del Equipo](https://www.elproximopaso.net/2018/12/dor-kards.html) - T. Wallet, 2018
 - [96 Ejemplos de Visualización: como los buenos equipos visualizan su trabajo](https://leanpub.com/ejemplosdevisualizacin) - Traducción - J. Janlen, T.Wallet - Leanpub, 2018
--	[Los derechos slow del equipo ágil](https://nicopaez.gitbook.io/libroagileaoc2017/slow) - N. Paez, J. Gabardini, T. Wallet & varios - Libro Ensayos Agiles – Escritos, Reflexiones y Críticas sobre Agilidad. Hesidio, 2017
+-	[Los derechos slow del equipo ágil](https://nicopaez.gitbook.io/libroagileaoc2017/slow) - N. Paez, J. Gabardini, T. Wallet & varios - Libro Ensayos Ágiles – Escritos, Reflexiones y Críticas sobre Agilidad. Hesidio, 2017
 - [DoD Kards: Cocreando la Definición de Terminado del Equipo](https://www.elproximopaso.net/2017/07/dod-kards.html) - T. Wallet, C. Velasquez, 2017
--	[San Saru: selección natural de equipos](https://nicopaez.gitbook.io/libroagileaoc2016/01_san_saru) - N. Paez, H. Hiromoto, T. Wallet & varios. Libro Herramientas Agiles - Técnicas y Patrones para Equipos y Profesionales. Hesidio, 2016
--	[El próximo paso hacía el collective code ownership](https://nicopaez.gitbook.io/libroagileaoc2015/11-collective_ownership) - N. Paez, A. Cyment, T. Wallet & varios - Libro Experiencias Agiles – Relatos de Experiencias del Uso de Metodologías Agiles en Argentina, 2015
+-	[San Saru: selección natural de equipos](https://nicopaez.gitbook.io/libroagileaoc2016/01_san_saru) - N. Paez, H. Hiromoto, T. Wallet & varios. Libro Herramientas Ágiles - Técnicas y Patrones para Equipos y Profesionales. Hesidio, 2016
+-	[El próximo paso hacía el collective code ownership](https://nicopaez.gitbook.io/libroagileaoc2015/11-collective_ownership) - N. Paez, A. Cyment, T. Wallet & varios - Libro Experiencias Ágiles – Relatos de Experiencias del Uso de Metodologías Ágiles en Argentina, 2015
 - [Retromat](https://retromat.org/es) - Traducción - C. Baldauf, T. Wallet, P. Serrano - 2014
 - [Business Value Game](https://www.agilebelgium.be/businessvaluegame) - Traducción - V. Peeters, P. Van Cauwenberghe, T. Wallet, L. Antolí, J.G. Plaza - 2010
 -	[On-The-Fly Model-Based Testing of Web Services with Jambition](https://link.springer.com/chapter/10.1007/978-3-642-01364-5_9) - L. Frantzen, T. Wallet, M. Huerta y Z. Kiss - En Proceedings of Web Services and Formal Methods: 5th International Workshop, WS-FM 2008, Milano, Italia. Septiembre 2008
