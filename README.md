@@ -152,35 +152,48 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 ## 🎓 Formación
 
-- Facilitar un Círculo de Hombres, [Colmena Comunicación No Violenta](https://www.instagram.com/colmenaenlinea/?hl=es), 2022
-- Professional Agile Coach (PAC), [Kleer](https://www.kleer.la/es), 2018
-- Facilitación Gráfica, [Kleer](https://www.kleer.la/es), 2017
-- Art Of Hosting, [Conversaciones para Todos](https://www.linkedin.com/company/conversaciones-para-todos), 2016
-- Certified Scrum Practitionner (CSP), [Scrum Alliance](https://www.scrumalliance.org), 2010
-- Certified Scrum Master (CSM), [Scrum Alliance](https://www.scrumalliance.org), 2009
-- People CMM, [Liveware](https://liveware.com.ar), 2007
-- Certified Software Quality Engineer (CSQE), [American Society for Quality](https://asq.org), 2006
--	Programa de Liderazgo Eficaz, [Interludios](https://www.interludiosgroup.com.ar), 2006
--	Gestión de Equipos [Whalecom](https://www.whalecom.com.ar), 2005
-- Estimaciones de Proyectos de Software, [Liveware](https://liveware.com.ar), 2004
-- Planificación  y Control de Proyectos, [Liveware](https://liveware.com.ar), 2003
-- Software Project Planning and Tracking [Teraquest Metrics](https://www.terraquest.co.uk), 2001
-- European Master in Object Oriented Software Engineering (EMOOSE), [Vrije Universiteit Brussels](https://www.vub.be/en), Bélgica, 1998-1999
-- Ingeniero Industrial con Especialización en Ingeniería de Software, [École des Mines de Nantes / Institut Mines-Télécom](https://www.imt-atlantique.fr/en), Francia, 1995-1999
+- Facilitar un Círculo de Hombres / [Colmena Comunicación No Violenta](https://www.instagram.com/colmenaenlinea/?hl=es), 2022
+- Professional Agile Coach (PAC) / [Kleer](https://www.kleer.la/es), 2018
+- Facilitación Gráfica / [Kleer](https://www.kleer.la/es), 2017
+- Art Of Hosting / [Conversaciones para Todos](https://www.linkedin.com/company/conversaciones-para-todos), 2016
+- Certified Scrum Practitionner (CSP) / [Scrum Alliance](https://www.scrumalliance.org), 2010
+- Certified Scrum Master (CSM) / [Scrum Alliance](https://www.scrumalliance.org), 2009
+- People CMM / [Liveware](https://liveware.com.ar), 2007
+- Certified Software Quality Engineer (CSQE) / [American Society for Quality](https://asq.org), 2006
+-	Programa de Liderazgo Eficaz / [Interludios](https://www.interludiosgroup.com.ar), 2006
+-	Gestión de Equipos / [Whalecom](https://www.whalecom.com.ar), 2005
+- Estimaciones de Proyectos de Software / [Liveware](https://liveware.com.ar), 2004
+- Planificación  y Control de Proyectos / [Liveware](https://liveware.com.ar), 2003
+- Software Project Planning and Tracking / [Teraquest Metrics](https://www.terraquest.co.uk), 2001
+- European Master in Object Oriented Software Engineering (EMOOSE) / [Vrije Universiteit Brussels](https://www.vub.be/en), Bélgica, 1998-1999
+- Ingeniero Industrial con Especialización en Ingeniería de Software / [École des Mines de Nantes / Institut Mines-Télécom](https://www.imt-atlantique.fr/en), Francia, 1995-1999
 
 ---
 
 ## 🌐 Idiomas
-- Francés: nativo
-- Español: bilingüe  
-- Inglés: profesional
+- Francés: Nativo
+- Español: Bilingüe  
+- Inglés: Profesional
 
 ---
 ## 🕯️Comunidades y Eventos
 
-- [Agile Open Camp](https://agileopen.camp) - Cofundador y organizador: Cofundé con T. Christie y M. Strione el evento Agile Open Camp (AOC). Se hicieron 15 ediciones del evento en 5 países (+ online durante la pandemia). Coorganicé los AOC Bariloche 2015 y 2016, AOC Chile 2017 y 2018, AOC España 2019 y AOC en tu casa 2020.
-- Fundador: [Comunidad de Facilitadores/as de la Confluencia](https://www.elproximopaso.net/2018/12/facilitadores-confluencia.html) (2018 a 2020), Comunidad Ágiles Alto Valle: capítulo regional de [Ágiles Argentina](https://www.meetup.com/es-ES/agiles-arg) (2015 a 2017), [Comunidad Ágil de Neuquén](https://www.elproximopaso.net/2012/03/primera-reunion-de-la-comunidad-agil-de.html) (2012), Comunidad Ágil interna de [Pragma Consultores](https://practia.global) (2009 a 2013).
-- Speaker: en eventos de Argentina, Bolivia, Chile, Ecuador, España, Francia, Perú, Uruguay, Venezuela y online, con keynotes y talleres sobre temas de agilidad (retrospectivas, no estimates, Scrum, Kanban, priorización, visual management, liderazgo ágil), gestión del tiempo (Slow, Pomodoro, silencio), facilitación (auto facilitación, facilitación remota) y diversidad, entre otros.
+- [Agile Open Camp](https://agileopen.camp)  
+  - Junto a T. Christie y M. Strione, cofundé el evento Agile Open Camp (AOC), con 15 ediciones en 5 países, incluyendo versiones online durante la pandemia.  
+  - Co-organizador de las ediciones de AOC en Bariloche (2015 y 2016), Chile (2017 y 2018), España (2019), y _AOC en tu casa_ (2020).
+
+- Fundador de comunidades:  
+  - [Comunidad de Facilitadores/as de la Confluencia](https://www.elproximopaso.net/2018/12/facilitadores-confluencia.html) (2018-2020)  
+  - Comunidad Ágiles Alto Valle, capítulo regional de [Ágiles Argentina](https://www.meetup.com/es-ES/agiles-arg) (2015-2017)  
+  - [Comunidad Ágil de Neuquén](https://www.elproximopaso.net/2012/03/primera-reunion-de-la-comunidad-agil-de.html) (2012)  
+  - Comunidad Ágil interna de [Pragma Consultores](https://practia.global) (2009-2013)
+    
+- Speaker en eventos nacionales e internacionales:  
+  He participado como orador en Argentina, Bolivia, Chile, Ecuador, Perú, Uruguay, Venezuela, Francia, España y en eventos en línea, dictando keynotes y talleres sobre temáticas de:  
+  - **Agilidad:** Retrospectivas, No Estimates, Scrum, Kanban, Priorización, Visual Management, Liderazgo Ágil  
+  - **Gestión del tiempo:** Slow, Pomodoro, Silencio
+  - **Facilitación:** Auto facilitación, Facilitación remota  
+  - **Diversidad:** Promoviendo lenguaje inclusivo
 
 ## 📚 Publicaciones y Traducciones
 
