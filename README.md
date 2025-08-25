@@ -139,7 +139,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 ## 🎓 Formación Académica
 
 - European Master in Object Oriented Software Engineering (EMOOSE) / [Vrije Universiteit Brussels](https://www.vub.be/en), Bélgica 📅 Sep 1998 a Ago 1999  
-- Ingeniero Industrial con Especialización en Ingeniería de Software / [École des Mines de Nantes / Institut Mines-Télécom](https://www.imt-atlantique.fr/en), Francia 📅 Sep 1995 a Ago 1999  
+- Ingeniero Industrial con Especialización en Ingeniería de Software / [École des Mines de Nantes IMT](https://www.imt-atlantique.fr/en), Francia 📅 Sep 1995 a Ago 1999  
 
 ### Principales Capacitaciones  
 
