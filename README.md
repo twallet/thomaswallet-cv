@@ -103,7 +103,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 📅 Feb 2006 a Sep 2008
 - Lideré la participación de Pragma Consultores en el proyecto de investigación _**PLASTIC**_ de la Comunidad Europea, destinado a desarrollar una plataforma de servicios livianos, distribuidos y robustos en entornos de redes _Beyond 3rd Generation_.
 - En colaboración con 11 socios europeos, definimos un entorno de desarrollo, un middleware y un framework de validación, impulsando la innovación en comunicaciones y servicios móviles.
-- En Pragma Consultores desarrollamos un prototipo móvil de eSalud, llamado _(Pocket Doctor)_, demostrando los resultados y avances tecnológicos del proyecto (premiado en el Concurso Nacional de Innovaciones INNOVAR 2008).
+- En Pragma Consultores desarrollamos un prototipo móvil de eSalud, llamado _Pocket Doctor_, demostrando los resultados y avances tecnológicos del proyecto (premiado en el Concurso Nacional de Innovaciones INNOVAR 2008).
 
 #### Mejora de Procesos / Banco Galicia (Buenos Aires)  
 📅 Feb 2005 a Mar 2009
