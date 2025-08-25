@@ -7,9 +7,9 @@
 ---
 
 ## ♻️ Perfil
-En mis 26 años de carrera, he tenido la oportunidad de desarrollarme en diversos roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. Aunque mi trayectoria me ha brindado una perspectiva amplia y valiosa, recientemente redescubrí mi pasión inicial: la programación.  
+Con 26 años de carrera, desarrollé diversos roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. Mi trayectoria me ha brindado una perspectiva amplia y valiosa, y recientemente redescubrí mi pasión inicial: la programación.  
 
-Mi motivación para reconvertirme en desarrollador (full-stack) surge del deseo de volver a crear soluciones directamente con código, aplicando mis conocimientos técnicos y mi experiencia en la gestión de proyectos y dinámicas de desarrollo. Mis humildes side-projects de programación me fueron apasionando cada vez más y finalmente decidí emprender este cambio. Aunque reconozco la necesidad de actualizarme en algunas tecnologías, cuento con una base sólida en ingeniería de software, liderazgo y prácticas ágiles, lo que me permite aprender rápidamente y aportar valor en un equipo.  
+Mi motivación para reconvertirme en desarrollador (full-stack) surge de mi deseo de crear soluciones directamente con código, aplicando mis conocimientos técnicos y mi experiencia en la gestión de proyectos y dinámicas de desarrollo. Aunque reconozco la necesidad de actualizarme en algunas tecnologías, cuento con una base sólida en ingeniería de software, liderazgo y prácticas ágiles, lo que me permitirá aprender rápidamente y aportar valor en un equipo.  
 
 Estoy particularmente interesado en roles donde pueda combinar mis habilidades técnicas con mi experiencia en la relación con clientes, la optimización de procesos de desarrollo, las buenas prácticas técnicas, contribuyendo a la creación de productos innovadores y de alta calidad. 
 
@@ -20,18 +20,18 @@ Estoy particularmente interesado en roles donde pueda combinar mis habilidades t
 - Zappier
 - IA: Jules, GAS Copilot
 
-## 📂 Proyectos Destacados  
-🤖 [Bot Habitus ¡FALTA LINK!]  
+## 📂 Desarrollos Destacados  
+🤖 [Bot Habitus ¡FALTA LINK!] 2025  
 Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periódicos.  
 - Stack: Google Apps Script (Orientado a Objetos), Telegram Bot API, Google Sheets API  
 - IA: GS Copilot
 
-🤖 [Bot Albums Of Communities](https://github.com/twallet/albumsofcommunitiesbot)  
+🤖 [Bot Albums Of Communities](https://github.com/twallet/albumsofcommunitiesbot)  2025
 Bot para la gestión grupal de álbumes de fotos en Telegram: automatiza la subida y organización de fotos/videos en Google Drive.  
 - Stack: Google Apps Script, Telegram Bot API, Google Drive API, Google Sheets API  
 - IA: Jules y GS Copilot
 
-⏱️ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  
+⏱️ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  2019  
 Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y monitoreo de avances de participantes compartido con clientes.  
 - Stack: Google Apps Script, Zappier, Teachable API, Google Mail API
 
@@ -43,12 +43,12 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 📅 Desde Sep 2023  
 - Ofrezco cursos online de Gestión del Tiempo, Productividad y Slow para personas y empresas, con más de 2.600 personas.
 - Desarrollé una plataforma de eLearning en _**Teachable**_ con automatizaciones en _**Zappier**_ y _**Google App Script**_.
-- Acompaño en la mejora de gestión del tiempo, ritmos y reuniones efectivas.
+- Acompaño personas, equipos y empresas en la mejora de gestión del tiempo, ritmos y reuniones efectivas.
 
 ### Agile Coach / Kleer (Cipolletti, Rio Negro)  
 📅 Ene 2016 a Dic 2024
 - Capacitación y coaching ágil (_**Scrum, Kanban, Retrospectivas, Visual Management, Improvement Kata**_ y _**Frameworks de Escalado**_, entre otros) para empresas en Latinoamérica y Europa, incluyendo Banco Galicia, KPMG, Telecom, YPF, Neoris, BBVA, Falabella, entre otros.
-- Facilité varios eventos _**Ágiles**_, _**Open Space**_, _**Team Building**_, _**Retiros**_ en comunidades y empresas. 
+- Facilité numerosos eventos sobre _**Agilidad**_, para _**Team Building**_ y _**Planificación Estratégica**_ en comunidades y empresas. 
 - Co-desarrollé un programa de _Liderazgo Ágil_ basado en _Reinventing Organizations,_ aplicado en varias empresas, con cerca de 20 ediciones.
 
 ### Banco Provincia del Neuquén
@@ -60,13 +60,11 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 #### Líder PMO Gerencia General (Neuquén)
 📅 Jul 2013 a Ago 2014
 - Construí y lideré la Oficina de Gestión de Proyectos (PMO), optimizando procesos y metodologías para proyectos estratégicos del banco.
-- Co-lideré proyectos clave, incluyendo construcción de un edificio, migraciones del core bancario (con _**Scrum**_), lanzamiento de préstamos preacordados, selección de ERP, asegurando alineamiento con los objetivos institucionales.
+- Co-lideré proyectos clave, incluyendo la construcción de la nueva torre corporativa del banco, migraciones del core bancario (con _**Scrum**_), lanzamiento de préstamos preacordados, selección de ERP, asegurando alineamiento con los objetivos institucionales.
 
 ### Docente eLearning Agile / UTN (Buenos Aires)
 📅 Abr 2011 a Dic 2020
-- Diseñé y facilité cursos online sobre metodologías ágiles para el desarrollo de software, incluyendo Scrum y PMI-ACP, con más de 2.100 participantes en total.
-- Impartí más de 95 ediciones de los cursos, formando profesionales en Argentina y otros países de Latinoamérica.
-- Desarrollé materiales didácticos y programas de entrenamiento acreditados, promoviendo la adopción de prácticas ágiles y buenas prácticas de gestión de proyectos.
+- Diseñé y dicté 95 ediciones de cursos online sobre metodologías ágiles para el desarrollo de software, incluyendo Scrum y PMI-ACP, con más de 2.100 participantes en total.
 
 ### Agile Coach y Speaker / El Próximo Paso (Cipolletti, Rio Negro)
 📅 Desde May 2010
@@ -92,7 +90,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 #### Coach Agile / Pragma Consultores (Buenos Aires y Neuquén)  
 📅 Abr 2009 a Mar 2013  
-- Inicié y lideré la _Comunidad Ágil_, promoviendo la capacitación en prácticas ágiles como _**XP, Scrum y Kanban**_ entre consultoras y consultores.
+- Inicié y lideré la _Comunidad Ágil_ de la consultora, promoviendo la capacitación en prácticas ágiles como _**XP, Scrum y Kanban**_ entre consultoras y consultores.
 - Apoyé en la implementación de prácticas ágiles en los proyectos y servicios de Pragma Consultores, facilitando la adopción de metodologías efectivas.
 - Brindé formaciones y coaching en prácticas ágiles a diversos clientes, fomentando una cultura de mejora continua y colaboración.
 
@@ -111,10 +109,6 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 #### Líder Proyecto de Investigación PLASTIC / European IST Research (Buenos Aires)  
 📅 Feb 2006 a Sep 2008
-- Lideré la participación de Pragma Consultores al proyecto de investigación de la Comunidad Europea PLASTIC, cuyo objetivo principal era desarrollar una plataforma que habilité servicios livianos, distribuidos y robustos en ambientes de redes de telefonía _Beyond 3rd Generation._
-- Con 11 partner europeos, definimos un ambiente de desarrollo, un middleware y un framework de validación.
-- En Pragma Consultores desarrollamos un prototipo mobile de eSalud _(Pocket Doctor),_ mostrando los resultados innovadores del proyecto.
-
 - Lideré la participación de Pragma Consultores en el proyecto de investigación _**PLASTIC**_ de la Comunidad Europea, destinado a desarrollar una plataforma de servicios livianos, distribuidos y robustos en entornos de redes _Beyond 3rd Generation_.
 - En colaboración con 11 socios europeos, definimos un entorno de desarrollo, un middleware y un framework de validación, impulsando la innovación en comunicaciones y servicios móviles.
 - En Pragma Consultores desarrollamos un prototipo móvil de eSalud, llamado _(Pocket Doctor)_, demostrando los resultados y avances tecnológicos del proyecto (premiado en el Concurso Nacional de Innovaciones INNOVAR 2008).
