@@ -179,8 +179,8 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 ## 🕯️Comunidades y Eventos
 
 - [Agile Open Camp](https://agileopen.camp)  
-  - Junto a T. Christie y M. Strione, cofundé el evento Agile Open Camp (AOC), con 15 ediciones en 5 países, incluyendo versiones online durante la pandemia.  
-  - Co-organizador de las ediciones de AOC en Bariloche (2015 y 2016), Chile (2017 y 2018), España (2019), y _AOC en tu casa_ (2020).
+  - Co-fundé el evento Agile Open Camp (AOC), con 15 ediciones en 5 países, incluyendo versiones online durante la pandemia.  
+  - Co-organicé las ediciones del AOC en Bariloche (2015 y 2016), Chile (2017 y 2018), España (2019), y _AOC en tu casa_ (2020).
 
 - Fundador de comunidades:  
   - [Comunidad de Facilitadores/as de la Confluencia](https://www.elproximopaso.net/2018/12/facilitadores-confluencia.html) (2018-2020)  
