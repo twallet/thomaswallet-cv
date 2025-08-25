@@ -9,7 +9,7 @@
 ## ♻️ Perfil
 En mis 26 años de carrera, he tenido la oportunidad de desarrollarme en diversos roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. Aunque mi trayectoria me ha brindado una perspectiva amplia y valiosa, recientemente redescubrí mi pasión inicial: la programación.  
 
-Mi motivación para reconvertirme en desarrollador (full-stack) surge del deseo de volver a crear soluciones directamente con código, aplicando mis conocimientos técnicos y mi experiencia en la gestión de proyectos y dinámicas de desarrollo. Mis humildes side projects de programación me fueron apasionando cada vez más y finalmente decidí emprender este cambio. Aunque reconozco la necesidad de actualizarme en algunas tecnologías, cuento con una base sólida en ingeniería de software, liderazgo y prácticas ágiles, lo que me permite aprender rápidamente y aportar valor en un equipo.  
+Mi motivación para reconvertirme en desarrollador (full-stack) surge del deseo de volver a crear soluciones directamente con código, aplicando mis conocimientos técnicos y mi experiencia en la gestión de proyectos y dinámicas de desarrollo. Mis humildes side-projects de programación me fueron apasionando cada vez más y finalmente decidí emprender este cambio. Aunque reconozco la necesidad de actualizarme en algunas tecnologías, cuento con una base sólida en ingeniería de software, liderazgo y prácticas ágiles, lo que me permite aprender rápidamente y aportar valor en un equipo.  
 
 Estoy particularmente interesado en roles donde pueda combinar mis habilidades técnicas con mi experiencia en la relación con clientes, la optimización de procesos de desarrollo, las buenas prácticas técnicas, contribuyendo a la creación de productos innovadores y de alta calidad. 
 
@@ -22,17 +22,17 @@ Estoy particularmente interesado en roles donde pueda combinar mis habilidades t
 
 ## 📂 Proyectos Destacados  
 🤖 [Bot Habitus ¡FALTA LINK!]  
-Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periódicos.
+Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periódicos.  
 - Stack: Google Apps Script (Orientado a Objetos), Telegram Bot API, Google Sheets API  
 - IA: GS Copilot
 
 🤖 [Bot Albums Of Communities](https://github.com/twallet/albumsofcommunitiesbot)  
-Bot de Telegram para la gestión grupal de albúms de fotos: automatiza la subida y organización de fotos/videos recibidos en un grupo de Telegram a una carpeta de Google Drive.
+Bot para la gestión grupal de álbumes de fotos en Telegram: automatiza la subida y organización de fotos/videos en Google Drive.  
 - Stack: Google Apps Script, Telegram Bot API, Google Drive API, Google Sheets API  
 - IA: Jules y GS Copilot
 
 ⏱️ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  
-Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y del monitoreo de avances de participantes compartido con clientes.
+Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y monitoreo de avances de participantes compartido con clientes.  
 - Stack: Google Apps Script, Zappier, Teachable API, Google Mail API
 
 ---
