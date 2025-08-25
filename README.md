@@ -21,17 +21,17 @@ Estoy particularmente interesado en roles donde pueda combinar mis habilidades t
 - IA: Jules, GAS Copilot
 
 ## 📂 Desarrollos Destacados  
-🤖 [Bot Habitus ¡FALTA LINK!] 2025  
+🤖 [Bot Habitus ¡FALTA LINK!] 2025    
 Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periódicos.  
 - Stack: Google Apps Script (Orientado a Objetos), Telegram Bot API, Google Sheets API  
 - IA: GS Copilot
 
-🤖 [Bot Albums Of Communities](https://github.com/twallet/albumsofcommunitiesbot)  2025
+🤖 [Bot Albums Of Communities](https://github.com/twallet/albumsofcommunitiesbot)  2025  
 Bot para la gestión grupal de álbumes de fotos en Telegram: automatiza la subida y organización de fotos/videos en Google Drive.  
 - Stack: Google Apps Script, Telegram Bot API, Google Drive API, Google Sheets API  
 - IA: Jules y GS Copilot
 
-⏱️ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  2019  
+⏱️ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  2019    
 Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y monitoreo de avances de participantes compartido con clientes.  
 - Stack: Google Apps Script, Zappier, Teachable API, Google Mail API
 
@@ -145,9 +145,9 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 ### Principales Capacitaciones  
 
-- Facilitar un Círculo de Hombres / [Colmena Comunicación No Violenta](https://www.instagram.com/colmenaenlinea/?hl=es), 2022
+- Facilitar un Círculo de Hombres / [Colmena Comunicación No Violenta](https://www.instagram.com/colmenaenlinea/?hl=es), 📅 2022
 - Professional Agile Coach (PAC) / [Kleer](https://www.kleer.la/es), 2018
-- Art Of Hosting / [Conversaciones para Todos](https://www.linkedin.com/company/conversaciones-para-todos), 2016
+- Art Of Hosting / [Conversaciones para Todos](https://www.linkedin.com/company/conversaciones-para-todos), 📅 2016
 - Certified Scrum Practitionner (CSP) / [Scrum Alliance](https://www.scrumalliance.org), 2010
 - Certified Scrum Master (CSM) / [Scrum Alliance](https://www.scrumalliance.org), 2009
 - Certified Software Quality Engineer (CSQE) / [American Society for Quality](https://asq.org), 2006
