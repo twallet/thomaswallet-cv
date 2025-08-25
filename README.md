@@ -7,9 +7,7 @@
 ---
 
 ## ♻️ Perfil
-En mis 26 años de carrera pude desarrollarme en roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo.  
-En los últimos años me conecté nuevamente con la programación, mi formación inicial. Me apasiona cada vez más, y hoy quiero reconvertirme en desarrollador.  
-Domino Google App Script/Javascript y algunas herramientas de automatización. Si bien estoy desactualizado técnicamente, aprendo rápidamente, y creo que puedo aportar mi experiencia en distintos aspectos relacionados al desarrollo como la relación con clientes o las prácticas (técnicas) ágiles.
+En mis 26 años de carrera pude desarrollarme en múltiples roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. En los últimos años me volví a enamorar con la programación, mi formación inicial. Me apasiona cada vez más, y hoy quiero reconvertirme en desarrollador. Domino Google App Script/Javascript y algunas herramientas de automatización. Si bien estoy desactualizado técnicamente, aprendo rápidamente, y creo que puedo aportar mi experiencia en distintos aspectos relacionados al desarrollo como la relación con clientes o las prácticas (técnicas) ágiles.
 
 ---
 
