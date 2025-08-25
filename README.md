@@ -103,10 +103,6 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 - Encabecé un equipo de 25 personas para el mantenimiento y la mejora continua de 6 aplicaciones críticas, utilizando tecnologías como _**ASP, .NET, QlikView y Oracle**_.
 - Implementé prácticas de _**Extreme Programming (XP)**_ bajo procesos _**CMMI Nivel 2**_, fortaleciendo la calidad del software y la eficiencia del equipo.
 
-#### Desarrollador y QA / Volvo IT Francia (Buenos Aires)  
-📅 Ago 2008  
-- Participé en una prueba de concepto para un catálogo de proyectos de TI del grupo Volvo, utilizando _**JavaScript**_ sobre _**Microsoft EPM**_, contribuyendo a la evaluación de nuevas tecnologías para proyectos futuros.
-
 #### Líder Proyecto de Investigación PLASTIC / European IST Research (Buenos Aires)  
 📅 Feb 2006 a Sep 2008
 - Lideré la participación de Pragma Consultores en el proyecto de investigación _**PLASTIC**_ de la Comunidad Europea, destinado a desarrollar una plataforma de servicios livianos, distribuidos y robustos en entornos de redes _Beyond 3rd Generation_.
@@ -149,7 +145,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 - European Master in Object Oriented Software Engineering (EMOOSE) / [Vrije Universiteit Brussels](https://www.vub.be/en), Bélgica, 1998-1999
 - Ingeniero Industrial con Especialización en Ingeniería de Software / [École des Mines de Nantes / Institut Mines-Télécom](https://www.imt-atlantique.fr/en), Francia, 1995-1999
 
-### Algunas Capacitaciones  
+### Principales Capacitaciones  
 
 - Facilitar un Círculo de Hombres / [Colmena Comunicación No Violenta](https://www.instagram.com/colmenaenlinea/?hl=es), 2022
 - Professional Agile Coach (PAC) / [Kleer](https://www.kleer.la/es), 2018
@@ -186,19 +182,14 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
   - **Diversidad:** Promoviendo lenguaje inclusivo
 
 ---
-## 📚 Publicaciones y Traducciones
+## 📚 Publicaciones
 
-- [Planes para Retrospectivas Ágiles: Retrospectivas ágiles efectivas desde el inicio](https://leanpub.com/planes-para-retrospectivas-agiles) - Traducción - C. Baldauf, T. Wallet - Leanpub, 2021
 - [DoR Kards: Cocreando la Definición de Listo del Equipo](https://www.elproximopaso.net/2018/12/dor-kards.html) - T. Wallet, 2018
-- [96 Ejemplos de Visualización: como los buenos equipos visualizan su trabajo](https://leanpub.com/ejemplosdevisualizacin) - Traducción - J. Janlen, T.Wallet - Leanpub, 2018
 -	[Los derechos slow del equipo ágil](https://nicopaez.gitbook.io/libroagileaoc2017/slow) - Libro Ensayos Ágiles – Escritos, Reflexiones y Críticas sobre Agilidad. Hesidio, 2017
 - [DoD Kards: Cocreando la Definición de Terminado del Equipo](https://www.elproximopaso.net/2017/07/dod-kards.html) - T. Wallet, C. Velasquez, 2017
 -	[San Saru: selección natural de equipos](https://nicopaez.gitbook.io/libroagileaoc2016/01_san_saru) - T. Wallet y T. Christie. Libro Herramientas Ágiles - Técnicas y Patrones para Equipos y Profesionales. Hesidio, 2016
 -	[El próximo paso hacía el collective code ownership](https://nicopaez.gitbook.io/libroagileaoc2015/11-collective_ownership) - Libro Experiencias Ágiles – Relatos de Experiencias del Uso de Metodologías Ágiles en Argentina, 2015
-- [Retromat](https://retromat.org/es) - Traducción - C. Baldauf, T. Wallet, P. Serrano - 2014
-- [Business Value Game](https://www.agilebelgium.be/businessvaluegame) - Traducción - V. Peeters, P. Van Cauwenberghe, T. Wallet, L. Antolí, J.G. Plaza - 2010
 -	[On-The-Fly Model-Based Testing of Web Services with Jambition](https://link.springer.com/chapter/10.1007/978-3-642-01364-5_9) - L. Frantzen, T. Wallet, M. Huerta y Z. Kiss - En Proceedings of Web Services and Formal Methods: 5th International Workshop, WS-FM 2008, Milano, Italia. Septiembre 2008
--	[Services and mobility: the PLASTIC answer to the Beyond 3G challenge](https://www.researchgate.net/publication/228617423_Services_and_mobility_the_PLASTIC_answer_to_the_Beyond_3G_challenge) - H.J. Eikerling, P. Mazzoleni, P. Plaza, D. Yankelevich, T. Wallet - White Paper Plastic Project. December 2007.
 -	[Mobile Medical Diagnosis: an m-Health Initiative through Service Continuity in B3G](https://www.researchgate.net/publication/221461311_Mobile_medical_diagnosis_an_m-health_initiative_through_service_continuity_in_B3G) - L. Rong, T. Wallet, M. Fredj y N. Georgantas - Proceedings of the 2007 ACM/IFIP/USENIX international conference on Middleware companion. Middleware 2007, California, 2007
 -	[Integrating an Explicit Knowledge Model into Geographic Information Systems](https://www.researchgate.net/publication/246487939_Integrating_an_Explicit_Knowledge_Model_into_Geographic_Information_Systems) - M. Casanova, T. Wallet y M. D’Hondt - En Proceedings of the Thirteenth International Conference on Software Engineering & Knowledge Engineering – SEKE’ 01, Buenos Aires, Argentina, 2001.
 -	[Adaptations to OCL for Ensuring Quality of Geographic Data](https://dl.acm.org/doi/10.1145/367845.367942) - T. Wallet, M. Casanova y M. D’Hondt - En Companion of the ACM Conference on Object-Oriented Programming, Systems, Languages and Applications – OOPSLA 2000, Minneapolis, Minnesota. Pág. 69-70. ACM, 2000.
