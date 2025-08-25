@@ -21,7 +21,7 @@ Estoy particularmente interesado en roles donde pueda combinar mis habilidades t
 - IA: Jules, GAS Copilot
 
 ## 📂 Desarrollos Destacados  
-🤖 [Bot Habitus ¡FALTA LINK!] 📅 2025    
+🤖 [Bot Habitus](https://github.com/twallet/habitus) 📅 2025    
 Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periódicos.  
 - Stack: Google Apps Script (Orientado a Objetos), Telegram Bot API, Google Sheets API  
 - IA: GS Copilot
