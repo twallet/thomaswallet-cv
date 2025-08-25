@@ -17,7 +17,7 @@ En mis 26 años de carrera pude desarrollarme en múltiples roles relacionados c
 - IA: Jules, GAS Copilot
 
 ## 📂 Proyectos Destacados  
-🤖 [Bot Habitus](https://github.com/twallet/habitus)    ACTUALIZAR!
+🤖 [Bot Habitus ¡FALTA LINK!]  
 Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periódicos.
 - Stack: Google Apps Script (Orientado a Objetos), Telegram Bot API, Google Sheets API  
 - IA: GS Copilot
@@ -27,7 +27,7 @@ Bot de Telegram para la gestión grupal de albúms de fotos: automatiza la subid
 - Stack: Google Apps Script, Telegram Bot API, Google Drive API, Google Sheets API  
 - IA: Jules y GS Copilot
 
-⏱️ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  ACTUALIZAR!
+⏱️ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  
 Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y del monitoreo de avances de participantes compartido con clientes.
 - Stack: Google Apps Script, Zappier, Teachable API, Google Mail API
 
