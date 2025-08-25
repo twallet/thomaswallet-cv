@@ -7,13 +7,17 @@
 ---
 
 ## ♻️ Perfil
-En mis 26 años de carrera pude desarrollarme en múltiples roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. En los últimos años me volví a enamorar con la programación, mi formación inicial. Me apasiona cada vez más, y hoy quiero reconvertirme en desarrollador. Domino Google App Script/Javascript y algunas herramientas de automatización. Si bien estoy desactualizado técnicamente, aprendo rápidamente, y creo que puedo aportar mi experiencia en distintos aspectos relacionados al desarrollo como la relación con clientes o las prácticas (técnicas) ágiles.
+En mis 26 años de carrera pude desarrollarme en múltiples roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. En los últimos años me volví a enamorar con la programación, mi formación inicial. Me apasiona cada vez más, y hoy quiero reconvertirme en desarrollador. Si bien estoy desactualizado técnicamente, aprendo rápidamente, y creo que puedo aportar mi experiencia en distintos aspectos relacionados al desarrollo como la relación con clientes o las prácticas (técnicas) ágiles.
 
 ---
+## ⚒️ Habilidades Técnicas
+- Google App Script / Javascript
+- Telegram Bots
+- Zappier
+- Programación Orientada a Objetos
+- IA: Jules, GAS Copilot
 
-## 📂 Proyectos Destacados
-Si bien no trabajo de programador desde hace muchos años, siempre estuve programando por hobby. 
-
+## 📂 Proyectos Destacados  
 🤖 [Bot Habitus](https://github.com/twallet/habitus)  
 Bot de Telegram para integrar hábitos saludables y sostenibles: permite crear y editar monitoreos de hábitos, visualizar progresos en la adopción y enviar recordatorios periodicos.
 - Stack: Google Apps Script (Orientado a Objetos), Telegram Bot API, Google Sheets API  
