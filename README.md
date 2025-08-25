@@ -195,6 +195,7 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
   - **Facilitación:** Auto facilitación, Facilitación remota  
   - **Diversidad:** Promoviendo lenguaje inclusivo
 
+---
 ## 📚 Publicaciones y Traducciones
 
 - [Planes para Retrospectivas Ágiles: Retrospectivas ágiles efectivas desde el inicio](https://leanpub.com/planes-para-retrospectivas-agiles) - Traducción - C. Baldauf, T. Wallet - Leanpub, 2021
