@@ -14,7 +14,6 @@ En mis 26 años de carrera pude desarrollarme en múltiples roles relacionados c
 - Google App Script / Javascript
 - Telegram Bots
 - Zappier
-- Programación Orientada a Objetos
 - IA: Jules, GAS Copilot
 
 ## 📂 Proyectos Destacados  
