@@ -27,7 +27,7 @@ Bot de Telegram para la gestión grupal de albúms de fotos: automatiza la subid
 - Stack: Google Apps Script, Telegram Bot API, Google Drive API, Google Sheets API  
 - IA: Jules y GS Copilot
 
-⌚ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  
+⏱️ [Automatización Programa Mejores Tiempos](https://github.com/twallet/mejorestiempos)  
 Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://nextstepslab.com/mejorestiempos/) y del monitoreo de avances de participantes compartido con clientes.
 - Stack: Google Apps Script, Zappier, Teachable API, Google Mail API
 
