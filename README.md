@@ -41,30 +41,26 @@ Automatización del diagnóstico inicial del [Programa Mejores Tiempos](https://
 
 ### Fundador y Time Maker / Next Steps Lab (Cipolletti, Rio Negro)
 📅 Desde Sep 2023  
-- Ofrezco cursos online de Gestión del Tiempo, Productividad y Slow para personas y empresas, en los cuales participaron más de 2.600 personas.
-- Desarrollé una plataforma de eLearning sobre _**Teachable**_ con automatizaciones en _**Zappier**_ y _**Google App Script**_.
-- Acompaño personas y empresas en la mejora de gestión del tiempo, de ritmos y de reuniones y agenda sostenible. 
+- Ofrezco cursos online de Gestión del Tiempo, Productividad y Slow para personas y empresas, con más de 2.600 personas.
+- Desarrollé una plataforma de eLearning en _**Teachable**_ con automatizaciones en _**Zappier**_ y _**Google App Script**_.
+- Acompaño en la mejora de gestión del tiempo, ritmos y reuniones efectivas.
 
 ### Agile Coach / Kleer (Cipolletti, Rio Negro)  
 📅 Ene 2016 a Dic 2024
-- Trabajé con múltiples empresas en Latinoamérica y Europa: Banco Galicia, KPMG, Telecom, Total, YPF en Argentina, Neoris, BBVA Next, Rollup Consulting en España, BBVA Continental en Perú, Falabella Finanzas en Chile, SmartRX, Caméon, Netia en Francia, David Systems en Alemania, entre otros.
--	Di coaching ágil para la (re)-construcción de equipos, con _**Scrum, Kanban, Visual Management, Improvement Kata**_ y _**Frameworks de Escalado**_ para multinacionales en Latinoamérica.
--	Di capacitaciones en _**Retrospectivas, Scrum, Kanban, Visual Management, Frameworks de Escalado**_ y _**Time Management**_ en Latinoamérica y Europa.
+- Capacitación y coaching ágil (_**Scrum, Kanban, Retrospectivas, Visual Management, Improvement Kata**_ y _**Frameworks de Escalado**_, entre otros) para empresas en Latinoamérica y Europa, incluyendo Banco Galicia, KPMG, Telecom, YPF, Neoris, BBVA, Falabella, entre otros.
 - Facilité varios eventos _**Ágiles**_, _**Open Space**_, _**Team Building**_, _**Retiros**_ en comunidades y empresas. 
-- Codesarrollé un programa de _Desarrollo de Liderazgo Ágil_ basado en _Reinventing Organizations,_ con su _Radar de Liderazgo_ (desarrollado en _**Google App Script**)_, capacitaciones y coaching ejecutivo, que tuvo cerca de 20 ediciones en NaranjaX, Laureate (Perú), Comercial Nutresa (Colombia) e YPF. 
+- Co-desarrollé un programa de _Liderazgo Ágil_ basado en _Reinventing Organizations,_ aplicado en varias empresas, con cerca de 20 ediciones.
 
 ### Banco Provincia del Neuquén
 #### Responsable Productos Pasivos (Neuquén) 
 📅 Sep 2014 a Dic 2015
-- Diseñé y comercialicé nuevos productos y servicios para la bancarización y captación de fondos.
-- Implementé herramientas de _**Business Inteligence**_ para monitoreo, control e inteligencia de negocio.
-- Realicé benchmarkings y guardia normativa. 
+- Diseñé y lancé nuevos productos para la bancarización y la captación de fondos.
+- Implementé herramientas de _**Business Inteligence**_ para monitoreo, análisis y control del desempeño de los productos.
 
 #### Líder PMO Gerencia General (Neuquén)
 📅 Jul 2013 a Ago 2014
-- Implementamos una Oficina de Gestión de Proyectos (PMO) para los proyectos de negocio críticos del Banco. 
-- Diseñamos, capacitamos y dimos soporte en procesos de gestión de proyectos y de portafolio para todas/os las/los líderes del banco.
-- Colideré varios proyectos estratégicos: construcción de un edificio, migración del sistema core con _**Scrum**_, lanzamiento de préstamos preacordados, selección de ERP, entre otros.
+- Construí y lideré la Oficina de Gestión de Proyectos (PMO), optimizando procesos y metodologías para proyectos estratégicos del banco.
+- Co-lideré proyectos clave, incluyendo construcción de un edificio, migraciones del core bancario (con _**Scrum**_), lanzamiento de préstamos preacordados, selección de ERP, asegurando alineamiento con los objetivos institucionales.
 
 ### Docente eLearnings Agile / UTN (Buenos Aires)
 📅 Abr 2011 a Dic 2020
