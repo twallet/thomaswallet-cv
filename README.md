@@ -7,9 +7,11 @@
 ---
 
 ## ♻️ Perfil
-Con 26 años de carrera, desarrollé diversos roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. Mi trayectoria me ha brindado una perspectiva amplia y diversa.  
-En los últimos años redescubrí mi pasión inicial por la programación a través de side-projects, y decidí volver a dedicarme al desarrollo, aprovechando mis conocimientos técnicos y mi experiencia en la gestión de proyectos y dinámicas de desarrollo.   
-Aunque reconozco la necesidad de actualizarme en algunas tecnologías, cuento con una base sólida en ingeniería de software, gestión de clientes, liderazgo y prácticas ágiles, lo que me permitirá aprender rápidamente y aportar valor en un equipo.   
+En 26 años de carrera, desarrollé diversos roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. Esta trayectoria me ha brindado una perspectiva amplia y diversa.  
+
+En los últimos años reconecté con mi pasión original por la programación a través de side-projects, y decidí volver a dedicarme al desarrollo, aprovechando mis conocimientos técnicos y mi experiencia en la gestión de proyectos y dinámicas de desarrollo.   
+
+Aunque reconozco la necesidad de actualizarme en algunas tecnologías, cuento con una base sólida en ingeniería de software, gestión de clientes, liderazgo y prácticas ágiles, lo que me permitirá aprender y aportar valor en un equipo rápidamente.   
 
 ---
 ## ⚒️ Competencias Técnicas
