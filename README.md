@@ -7,7 +7,11 @@
 ---
 
 ## ♻️ Perfil
-En mis 26 años de carrera pude desarrollarme en múltiples roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. En los últimos años me volví a enamorar con la programación, mi formación inicial. Me apasiona cada vez más, y hoy quiero reconvertirme en desarrollador (fullstack). Si bien estoy desactualizado técnicamente, aprendo rápidamente, y creo que puedo aportar mi experiencia en distintos aspectos relacionados al desarrollo como la relación con clientes o las prácticas (técnicas) ágiles.
+En mis 26 años de carrera, he tenido la oportunidad de desarrollarme en diversos roles relacionados con tecnología, liderazgo, agilidad, facilitación, capacitación y gestión del tiempo. Aunque mi trayectoria me ha brindado una perspectiva amplia y valiosa, recientemente redescubrí mi pasión inicial: la programación.  
+
+Mi motivación para reconvertirme en desarrollador (full-stack) surge del deseo de volver a crear soluciones directamente con código, aplicando mis conocimientos técnicos y mi experiencia en la gestión de proyectos y dinámicas de desarrollo. Mis humildes side projects de programación me fueron apasionando cada vez más y finalmente decidí emprender este cambio. Aunque reconozco la necesidad de actualizarme en algunas tecnologías, cuento con una base sólida en ingeniería de software, liderazgo y prácticas ágiles, lo que me permite aprender rápidamente y aportar valor en un equipo.  
+
+Estoy particularmente interesado en roles donde pueda combinar mis habilidades técnicas con mi experiencia en la relación con clientes, la optimización de procesos de desarrollo, las buenas prácticas técnicas, contribuyendo a la creación de productos innovadores y de alta calidad. 
 
 ---
 ## ⚒️ Competencias Técnicas
